@@ -12,3 +12,19 @@ bind f12 showfps
 bind sysrq screenshot jpg hide
 bind ^v paste
 bind f6 load Guildwork
+
+
+lua load Equipviewer 380 620
+lua load Quetz
+lua load parse 
+//parse show defense
+lua load sparks
+lua load tradenpc
+lua load sellnpc
+lua load gearinfo
+lua load Skillchains
+lua load Repeater
+lua load craftstats
+lua load AuctionHelper
+wait 30
+lua load GearInfo
