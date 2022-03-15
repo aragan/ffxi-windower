@@ -19,12 +19,14 @@ lua load Quetz
 lua load parse 
 //parse show defense
 lua load sparks
+lua load AutoJoin
 lua load tradenpc
 lua load sellnpc
 lua load gearinfo
 lua load Skillchains
 lua load Repeater
+lua load React
 lua load craftstats
 lua load AuctionHelper
-wait 30
-lua load GearInfo
+
+
