@@ -6,7 +6,7 @@ console_displayactivity 1
 console_fadedelay 3500
 console_screendir screenshots
 console_load Guildwork
-load Guildwork
+
 
 bind f12 showfps
 bind sysrq screenshot jpg hide
@@ -19,6 +19,7 @@ lua load Quetz
 lua load parse 
 //parse show defense
 lua load sparks
+lua load Furrow
 lua load AutoJoin
 lua load tradenpc
 lua load sellnpc
@@ -26,7 +27,15 @@ lua load gearinfo
 lua load Skillchains
 lua load Repeater
 lua load React
+lua load sheolhelper
+lua load trade
+lua load iSpy
+lua load unmroe
+lua load partyhints
+lua load Keepshield
+lua load Facing
 lua load craftstats
 lua load AuctionHelper
-
+wait 30
+lua load GearInfo
 
