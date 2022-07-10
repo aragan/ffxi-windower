@@ -29,7 +29,6 @@ lua load Repeater
 lua load React
 lua load sheolhelper
 lua load trade
-lua load iSpy
 lua load unmroe
 lua load partyhints
 lua load Keepshield
