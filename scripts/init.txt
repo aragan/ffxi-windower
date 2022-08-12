@@ -30,7 +30,7 @@ lua load React
 lua load sheolhelper
 lua load trade
 lua load unmroe
-lua load partyhints
+lua load Cancel
 lua load Keepshield
 lua load Facing
 lua load craftstats
