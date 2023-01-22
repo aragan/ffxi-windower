@@ -7,6 +7,9 @@ console_fadedelay 3500
 console_screendir screenshots
 console_load Guildwork
 
+// configure fastfollow
+ffo pauseon any
+ffo pausedelay 0
 
 bind f12 showfps
 bind sysrq screenshot jpg hide
@@ -29,11 +32,10 @@ lua load Repeater
 lua load React
 lua load sheolhelper
 lua load trade
-lua load unmroe
+lua load Sublimator
 lua load Cancel
 lua load Keepshield
 lua load Facing
-lua load craftstats
 lua load AuctionHelper
 wait 30
 lua load GearInfo

@@ -18,6 +18,7 @@ lua load aecho;
 lua load autocontrol;
 lua load AutoRA;
 lua load azureSets;
+lua load BattleStations;
 lua load BLUAlert;
 lua load Bonanza;
 lua load capetrader;
