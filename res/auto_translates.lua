@@ -566,6 +566,16 @@ return {
     [3527] = {id=3527,en="/emotetrust",ja="/emotetrust"},
     [3528] = {id=3528,en="/wardrobe3",ja="/wardrobe3"},
     [3529] = {id=3529,en="/wardrobe4",ja="/wardrobe4"},
+    [3530] = {id=3530,en="/assistj",ja="/assistj"},
+    [3531] = {id=3531,en="/assiste",ja="/assiste"},
+    [3532] = {id=3532,en="/assistjsw",ja="/assistjsw"},
+    [3533] = {id=3533,en="/assistesw",ja="/assistesw"},
+    [3534] = {id=3534,en="/mutelist",ja="/mutelist"},
+    [3535] = {id=3535,en="/wardrobe5",ja="/wardrobe5"},
+    [3536] = {id=3536,en="/wardrobe6",ja="/wardrobe6"},
+    [3537] = {id=3537,en="/wardrobe7",ja="/wardrobe7"},
+    [3538] = {id=3538,en="/wardrobe8",ja="/wardrobe8"},
+    [3539] = {id=3539,en="/recycle",ja="/recycle"},
     [3584] = {id=3584,en="Locations",ja="イチ"},
     [3585] = {id=3585,en="This way",ja="こっち"},
     [3586] = {id=3586,en="That way",ja="そっち"},
@@ -953,6 +963,8 @@ return {
     [5650] = {id=5650,en="Can you speak German?",ja="ドイツ語は話せますか？"},
     [5651] = {id=5651,en="I don't speak any French.",ja="私はフランス語が話せません。"},
     [5652] = {id=5652,en="I don't speak any German.",ja="私はドイツ語が話せません。"},
+    [5653] = {id=5653,en="The Japanese Assist Channel is \"/assistj\".",ja="日本語のアシストチャンネルはこちら。→/assistj"},
+    [5654] = {id=5654,en="The English Assist Channel is \"/assiste\".",ja="英語のアシストチャンネルはこちら。→/assiste"},
     [5888] = {id=5888,en="Online Status",ja="オンラインステータス"},
     [5890] = {id=5890,en="Away",ja="席を外す"},
     [6144] = {id=6144,en="Skills",ja="スキル"},
@@ -1841,7 +1853,7 @@ return {
     [8260] = {id=8260,en="Beast Affinity",ja="ビーストアフニティ"},
     [8261] = {id=8261,en="Beast Healer",ja="ビーストヒーラー"},
     [8262] = {id=8262,en="Snapshot",ja="スナップショット"},
-    [8263] = {id=8263,en="Recycle",ja="リサイクル"},
+    [8263] = {id=8263,en="Recycle",ja="リサイクル(ジョブ特性)"},
     [8264] = {id=8264,en="Ikishoten",ja="意気衝天"},
     [8265] = {id=8265,en="Overwhelm",ja="正正堂堂"},
     [8266] = {id=8266,en="Ninja Tool Expert.",ja="忍具の知識"},
@@ -2436,6 +2448,12 @@ return {
     [10255] = {id=10255,en="Blue magic",ja="青魔法"},
     [10256] = {id=10256,en="Omen",ja="オーメン"},
     [10257] = {id=10257,en="Odyssey",ja="オデシー"},
+    [10258] = {id=10258,en="Mastery Rank",ja="ナレッジランク"},
+    [10259] = {id=10259,en="Mentor",ja="メンター"},
+    [10260] = {id=10260,en="Assist Channel",ja="アシストチャンネル"},
+    [10261] = {id=10261,en="Sortie",ja="ソーティ"},
+    [10265] = {id=10265,en="Master Level",ja="マスターレベル"},
+    [10266] = {id=10266,en="Exemplar Points",ja="エクゼンプラーポイント"},
     [10267] = {id=10267,en="Maze Monger",ja="メイズモンガー"},
     [10268] = {id=10268,en="Moblin Marble",ja="モブリンマーブル"},
     [10269] = {id=10269,en="Job Points",ja="ジョブポイント"},
@@ -2447,6 +2465,7 @@ return {
     [10275] = {id=10275,en="Capacity Points",ja="キャパシティポイント"},
     [10276] = {id=10276,en="Mog Satchel",ja="モグサッチェル"},
     [10277] = {id=10277,en="Augmented Item",ja="オーグメント"},
+    [10278] = {id=10278,en="Recycle Bin",ja="リサイクル(ストレージ)"},
     [10282] = {id=10282,en="Siren's Favor",ja="セイレーンの加護"},
     [10283] = {id=10283,en="Carbuncle's Favor",ja="カーバンクルの加護"},
     [10284] = {id=10284,en="Ifrit's Favor",ja="イフリートの加護"},
@@ -2546,7 +2565,7 @@ return {
 }, {"id", "en", "ja"}
 
 --[[
-Copyright © 2013-2020, Windower
+Copyright © 2013-2023, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

@@ -28,10 +28,18 @@ return {
     [24] = {id=24,en="Adamantoise",ja="アダマンタス",endesc="Calls forth an adamantoise.",icon_id=87,jadesc="アダマンタスを呼び出す。",prefix="/mount"},
     [25] = {id=25,en="Dhalmel",ja="ダルメル",endesc="Calls forth a dhalmel.",icon_id=87,jadesc="ダルメルを呼び出す。",prefix="/mount"},
     [26] = {id=26,en="Doll",ja="ドール",endesc="Calls forth a doll.",icon_id=87,jadesc="ドールを呼び出す。",prefix="/mount"},
+    [27] = {id=27,en="Golden Bomb",ja="ゴールデンボム",endesc="Calls forth a golden bomb.",icon_id=87,jadesc="ゴールデンボムを呼び出す。",prefix="/mount"},
+    [28] = {id=28,en="Buffalo",ja="バッファロー",endesc="Calls forth a buffalo.",icon_id=87,jadesc="バッファローを呼び出す。",prefix="/mount"},
+    [29] = {id=29,en="Wivre",ja="ウィヴル",endesc="Calls forth a wivre.",icon_id=87,jadesc="ウィヴルを呼び出す。",prefix="/mount"},
+    [30] = {id=30,en="Red Raptor",ja="赤ラプトル",endesc="Calls forth a red raptor.",icon_id=87,jadesc="赤ラプトルを呼び出す。",prefix="/mount"},
+    [31] = {id=31,en="Iron Giant",ja="鉄巨人",endesc="Calls forth an iron giant.",icon_id=87,jadesc="鉄巨人を呼び出す。",prefix="/mount"},
+    [32] = {id=32,en="Byakko",ja="白虎",endesc="Calls forth Byakko.",icon_id=87,jadesc="白虎を呼び出す。",prefix="/mount"},
+    [33] = {id=33,en="Noble Chocobo",ja="ノーブルチョコボ",endesc="Calls forth a noble chocobo.",icon_id=86,jadesc="ノーブルチョコボを呼び出す。",prefix="/mount"},
+    [34] = {id=34,en="Ixion",ja="イクシオン",endesc="Calls forth an ixion.",icon_id=87,jadesc="イクシオンを呼び出す。",prefix="/mount"},
 }, {"id", "en", "ja", "endesc", "icon_id", "jadesc", "prefix"}
 
 --[[
-Copyright © 2013-2020, Windower
+Copyright © 2013-2023, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

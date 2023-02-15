@@ -13,6 +13,7 @@ return {
     [9] = {id=9,en="Restraint",ja="リストレント",action_id=252},
     [10] = {id=10,en="Rune Enchantment",ja="エンチャントルーン",action_id=365},
     [11] = {id=11,en="Blood Rage",ja="ブラッドレイジ",action_id=267},
+    [12] = {id=12,en="Cascade",ja="カスケード",action_id=388},
     [13] = {id=13,en="Focus",ja="集中",action_id=36},
     [14] = {id=14,en="Dodge",ja="回避",action_id=37},
     [15] = {id=15,en="Chakra",ja="チャクラ",action_id=38},
@@ -145,6 +146,7 @@ return {
     [148] = {id=148,en="Futae",ja="二重",action_id=259},
     [149] = {id=149,en="Spirit Bond",ja="スピリットボンド",action_id=393},
     [150] = {id=150,en="Majesty",ja="マジェスティ",action_id=394},
+    [151] = {id=151,en="Hover Shot",ja="ホバーショット",action_id=395},
     [157] = {id=157,en="Ancient Circle",ja="エンシェントサークル",action_id=65},
     [158] = {id=158,en="Jump",ja="ジャンプ",action_id=66},
     [159] = {id=159,en="High Jump",ja="ハイジャンプ",action_id=67},
@@ -234,7 +236,7 @@ return {
 }, {"id", "en", "ja", "action_id"}
 
 --[[
-Copyright © 2013-2020, Windower
+Copyright © 2013-2023, Windower
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
