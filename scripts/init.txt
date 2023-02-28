@@ -6,6 +6,7 @@ console_displayactivity 1
 console_fadedelay 3500
 console_screendir screenshots
 console_load Guildwork
+res = require('resources')
 
 // configure fastfollow
 ffo pauseon any
@@ -34,9 +35,34 @@ lua load sheolhelper
 lua load trade
 lua load Sublimator
 lua load Cancel
-lua load Keepshield
 lua load Facing
-lua load AuctionHelper
+lua load partyhints
+lua load PartyPets
+lua load PartyBuffs
+lua load PetCharges
+lua load shortcuts
+lua load shoutml
+lua load SortieHUD
+lua load spellSpammer
+lua load Silence
+lua load NyzulHelper
+lua load rolltracker
+lua load fuckoff
+lua load rolltracker
+lua load enemybar
+lua load EasySpells
+lua load EasyNuke
+lua load closetCleaner
+lua load chatfilter
+lua load azureSets
+lua load AutoRA
+lua load WS
+lua load KU
+lua load sc
+lua load mob
+lua load sc
+lua load sc
+--lua load AuctionHelper
 wait 30
 lua load GearInfo
 
