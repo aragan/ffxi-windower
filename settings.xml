@@ -6,67 +6,87 @@
     <addon>Omen</addon>
     <addon>Trusts</addon>
     <addon>aecho</addon>
-    <addon>distance</addon>
     <addon>dynamishelper</addon>
-    <addon>PetTP</addon>
     <addon>salvage2</addon>
     <addon>Silence</addon>
     <addon>temps</addon>
-    <addon>translate</addon>
     <addon>Treasury</addon>
     <addon>update</addon>
     <addon>vwhl</addon>
     <addon>EasyNuke</addon>
     <addon>lottery</addon>
-    <addon>targetinfo</addon>
-    <addon>gametime</addon>
-    <addon>TParty</addon>
     <addon>autocontrol</addon>
     <addon>capetrader</addon>
-    <addon>DressUp</addon>
     <addon>PetSchool</addon>
     <addon>Pouches</addon>
-    <addon>scoreboard</addon>
     <addon>StratHelper</addon>
     <addon>GearSwap</addon>
     <addon>pet_fix</addon>
-    <addon>plugin_manager</addon>
-    <addon>autojoin</addon>
-    <addon>autoinvite</addon>
-    <addon>AutoRA</addon>
     <addon>latentchecker</addon>
     <addon>organizer</addon>
     <addon>enternity</addon>
-    <addon>Debuffed</addon>
-    <addon>Dimmer</addon>
     <addon>EmpyPopTracker</addon>
     <addon>highlight</addon>
-    <addon>itemizer</addon>
     <addon>MobCompass</addon>
     <addon>ohShi</addon>
-    <addon>reive</addon>
     <addon>roe</addon>
     <addon>SATACast</addon>
-    <addon>SetTarget</addon>
     <addon>stna</addon>
     <addon>thtracker</addon>
-    <plugin>AutoExec</plugin>
-    <plugin>InfoBar</plugin>
+    <addon>DistancePlus</addon>
+    <addon>Logger</addon>
+    <addon>ChatLink</addon>
+    <addon>translate</addon>
+    <addon>linker</addon>
+    <addon>TreasurePool</addon>
+    <addon>answeringmachine</addon>
+    <addon>Debuffed</addon>
+    <addon>AutoRA</addon>
+    <addon>stopwatch</addon>
+    <addon>distance</addon>
+    <addon>bluguide</addon>
+    <addon>BLUAlert</addon>
+    <addon>DressUp</addon>
+    <addon>equipviewer</addon>
+    <addon>ffocolor</addon>
+    <addon>indinope</addon>
+    <addon>itemizer</addon>
+    <addon>NyzulHelper</addon>
+    <addon>respond</addon>
+    <addon>setbgm</addon>
+    <addon>InfoBar</addon>
+    <addon>PetTP</addon>
+    <addon>TParty</addon>
+    <addon>azureSets</addon>
+    <addon>instaLS</addon>
+    <addon>plugin_manager</addon>
+    <addon>BattleStations</addon>
+    <addon>ConsoleBG</addon>
+    <addon>rolltracker</addon>
+    <addon>SpellBook</addon>
+    <addon>SpellCheck</addon>
     <plugin>FFXIDB</plugin>
-    <plugin>Run</plugin>
+    <plugin>Timers</plugin>
+    <plugin>FishingCrashFix</plugin>
+    <plugin>LightLuggage</plugin>
+    <plugin>Sandbox</plugin>
+    <plugin>Guildwork</plugin>
+    <plugin>Config</plugin>
+    <plugin>PacketFlow</plugin>
   </autoload>
   <profile name="">
     <consolekey>Insert</consolekey>
     <windowmode>Window</windowmode>
-    <width>850</width>
-    <height>600</height>
+    <width>1024</width>
+    <height>768</height>
     <uiscale>1</uiscale>
   </profile>
   <profile name="Aragan">
     <consolekey>Insert</consolekey>
     <windowmode>Window</windowmode>
-    <width>850</width>
-    <height>600</height>
+    <width>1024</width>
+    <height>768</height>
+    <gamma>1</gamma>
     <uiscale>1</uiscale>
   </profile>
 </settings>
