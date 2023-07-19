@@ -12,19 +12,19 @@ res = require('resources')
 ffo pauseon any
 ffo pausedelay 0
 
-bind f12 showfps
+// bind f12 showfps
 bind sysrq screenshot jpg hide
 bind ^v paste
-bind f6 load Guildwork
+// bind f6 load Guildwork
 
 
 lua load Equipviewer 380 620
 lua load Quetz
 lua load parse 
-//parse show defense
+// parse show defense
 lua load sparks
 lua load Furrow
-lua load AutoJoin
+--lua load AutoJoin
 lua load tradenpc
 lua load sellnpc
 lua load gearinfo
@@ -35,34 +35,31 @@ lua load sheolhelper
 lua load trade
 lua load Sublimator
 lua load Cancel
-lua load Facing
+--lua load Facing
 lua load partyhints
-lua load PartyPets
+--lua load PartyPets
 lua load PartyBuffs
-lua load PetCharges
 lua load shortcuts
-lua load shoutml
-lua load SortieHUD
+--lua load shoutml
+--lua load SortieHUD
 lua load spellSpammer
-lua load Silence
-lua load NyzulHelper
 lua load rolltracker
-lua load fuckoff
-lua load rolltracker
-lua load enemybar
+--lua load fuckoff
+lua load enemybar2
 lua load EasySpells
 lua load EasyNuke
-lua load closetCleaner
+--lua load closetCleaner
 lua load chatfilter
-lua load azureSets
-lua load AutoRA
-lua load WS
-lua load KU
-lua load sc
-lua load mob
-lua load sc
-lua load sc
+--lua load azureSets
+--lua load AutoRA
+--lua load WS
+--lua load KU
+--lua load sc
+--lua load mob
+lua load DParty
+lua load SirPopaLot
 --lua load AuctionHelper
 wait 30
 lua load GearInfo
+gi show logo
 
