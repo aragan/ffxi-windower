@@ -17,8 +17,8 @@ bind sysrq screenshot jpg hide
 bind ^v paste
 // bind f6 load Guildwork
 
-
-lua load Equipviewer 380 620
+lua load Equipviewer 380 530 --for screen res 1600-1024
+// lua load Equipviewer 380 620
 lua load Quetz
 lua load parse 
 // parse show defense
@@ -27,6 +27,7 @@ lua load Furrow
 --lua load AutoJoin
 lua load tradenpc
 lua load sellnpc
+lua load anchor
 lua load gearinfo
 lua load Skillchains
 lua load Repeater
@@ -47,7 +48,7 @@ lua load rolltracker
 --lua load fuckoff
 lua load enemybar2
 lua load EasySpells
-lua load EasyNuke
+// lua load EasyNuke
 --lua load closetCleaner
 lua load chatfilter
 --lua load azureSets
@@ -61,5 +62,5 @@ lua load SirPopaLot
 --lua load AuctionHelper
 wait 30
 lua load GearInfo
-gi show logo
+// gi show logo
 
