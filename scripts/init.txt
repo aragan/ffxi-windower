@@ -17,7 +17,19 @@ bind sysrq screenshot jpg hide
 bind ^v paste
 // bind f6 load Guildwork
 
-lua load Equipviewer 380 530 --for screen res 1600-1024
+lua load SubTarget
+// lua load targetinfo
+lua load autoMB
+lua load schskillchain
+lua load TargetPlus
+lua load targeter
+// lua load allseeingeye
+lua load QuestLog
+lua load OhNoYouDont
+lua load finalAlert
+lua load finalAlert 250 330
+lua load Equipviewer 380 500 --for screen res 1920-1080
+// lua load Equipviewer 380 530 --for screen res 1600-1024
 // lua load Equipviewer 380 620
 lua load Quetz
 lua load parse 
@@ -28,14 +40,14 @@ lua load Furrow
 lua load tradenpc
 lua load sellnpc
 lua load anchor
-lua load gearinfo
+// lua load gearinfo
 lua load Skillchains
 lua load Repeater
 lua load React
 lua load sheolhelper
 lua load trade
 lua load Sublimator
-lua load Cancel
+// lua load Cancel
 --lua load Facing
 lua load partyhints
 --lua load PartyPets
@@ -44,7 +56,7 @@ lua load shortcuts
 --lua load shoutml
 --lua load SortieHUD
 lua load spellSpammer
-lua load rolltracker
+// lua load rolltracker
 --lua load fuckoff
 lua load enemybar2
 lua load EasySpells
@@ -59,6 +71,7 @@ lua load chatfilter
 --lua load mob
 lua load DParty
 lua load SirPopaLot
+--lua load smarttarget
 --lua load AuctionHelper
 wait 30
 lua load GearInfo
