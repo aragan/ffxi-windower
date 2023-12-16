@@ -1,0 +1,17 @@
+input /p 2 STEP SC start 1 Liquefaction 2 Fusion  >> mb 2 TIME FIRE
+input /ja "Immanence" <me>;
+wait 1;
+/P Liquefaction Scholar SC Opening <t> <call14>
+input /ma "Stone" <t>;
+wait 5;
+input /ja "Immanence" <me>;
+wait 1;
+input /p Liquefaction Scholar SC Closing 1 <t> <recast=Stratagems>
+input /ma "Fire" <t>;
+wait 6;
+input /ja "Immanence" <me>;
+wait 1;
+input /p Fusion Scholar SC Closing 2 <t> <recast=Stratagems>
+input /ma "Ionohelix" <t>;
+wait 5;
+input /ma "Fire V" <t>;

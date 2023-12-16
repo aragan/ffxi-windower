@@ -76,5 +76,6 @@ lua load SirPopaLot
 --lua load AuctionHelper
 wait 30
 lua load GearInfo
+lua load ShoutAlert
 // gi show logo
 

@@ -1,0 +1,10 @@
+input /ja "Immanence" <me> 
+wait 1;
+input /ma "Luminohelix" <t> 
+wait 6;
+input /p <ending x type skillchain>
+input /ja "Immanence" <me> 
+wait 1;
+input /ma "Stone" <t> 
+wait 2;
+input /ws Omniscience

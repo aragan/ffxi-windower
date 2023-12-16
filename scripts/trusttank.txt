@@ -1,0 +1,10 @@
+
+input /ma "AAEV" <me>
+wait 6
+input /ma "Ulmia" <me>
+wait 6
+input /ma "Apururu (UC)" <me>
+wait 6
+input /ma "Joachim" <me>
+wait 6
+input /ma "Star Sibyl" <me>

@@ -1,0 +1,11 @@
+input /ja "Immanence" <me>;
+wait 1;
+input /ma "Stone" <t>;
+wait 5;
+input /ja "Immanence" <me>;
+wait 1;
+input /ma "Fire" <t>;
+wait 5;
+input /ja "Immanence" <me>;
+wait 1;
+input /ma "Ionohelix" <t>;
