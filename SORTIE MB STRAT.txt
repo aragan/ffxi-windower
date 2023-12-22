@@ -1,0 +1,109 @@
+SORTIE MB STRAT
+
+NAKUULAS WEAK ELEMENT
+
+    Bztavian = Ice
+
+    Rockfin = Thunder
+
+    Gabbrath = Water
+
+    Yggdreant = Wind
+
+    Waktza = Earth
+
+    Cehuetzi = Fire
+
+---------
+
+B F BOSS
+
+Everyone must remove Shell V
+
+SCH 
+Tabula Rasa , Embrava IF F BOSS
+Klimaform
+IF Thunder hand SANDSTORM 2 
+IF Wind hand Hailstorm II 
+SCH DO SCH Induration or Scission
+Wind hand: SC Induration  MB BLIZZARD,
+Thunder hand: SC Scission MB STONE
+
+RUN  Thunder hand USE Tellus 3Xrune
+Wind hand USE Gelus 3Xrune 
+Valiance EVERYONE
+PULL WITH Gambit FOIL FLASH THEN Rayke
+
+GEO: INDI-Acumen THEN Blaze of Glory Geo-Malaise 
+THEN Ecliptic Attrition Dematerialize
+IF F BOSS USE Bolster INDI-Acumen THEN Geo-Malaise 
+THEN Entrust Indi-INT 
+
+COR: Wizard Roll AND Monk's Roll OR IF NEED MP Evoker's Roll 
+EARTH SHOT WITH MB IF HAND THUNDER
+ICE  SHOT WITH MB IF HAND WIND
+
+BLM Klimaform 
+IF Thunder hand SANDSTORM 
+IF Wind hand Hailstorm 
+SPELL BURN ON BOSS AND Elemental Seal Impact IF NEED
+MB FIRST MB Stoneja IF Thunder hand
+MB FIRST MB Blizzaja IF Wind hand 
+
+--------
+
+C G BOSS
+
+SCH
+
+IF G BOSS USE Tabula RASA ,Embrava 
+
+Klimaform , Fire Storm
+SCH: SC Fusion spam. FIRE MB
+
+SC liquefaction and fusion two step SC MB
+Immanence >Stone.>IMM.>Fire>IMM.>Ionohelix
+
+RUN  Tellus 3Xrune
+Valiance EVERYONE
+PULL WITH Gambit FOIL FLASH THEN Rayke
+
+
+GEO: INDI-Acumen THEN Blaze of Glory Geo-Malaise 
+THEN Ecliptic Attrition Dematerialize
+IF G BOSS USE Bolster INDI-Acumen THEN Geo-Malaise 
+THEN Entrust Indi-INT 
+
+BLM Klimaform ,STONE Storm, BURN , STONE MB Firaja FIRST MB
+AND Elemental Seal Impact IF NEED FIRST
+
+COR: Wizard Roll AND Monk's Roll 
+FIRE SHOT WITH MB
+
+---------
+
+A E BOSS
+
+SCH
+
+
+Klimaform , STONE Storm
+SCH: SC Scission spam. STONE MB
+
+
+
+RUN  Ignis 3Xrune
+Valiance EVERYONE
+PULL WITH Gambit FOIL FLASH THEN Rayke
+
+
+GEO: INDI-Acumen THEN Blaze of Glory Geo-Malaise 
+THEN Ecliptic Attrition Dematerialize
+IF G BOSS USE Bolster INDI-Acumen THEN Geo-Malaise 
+THEN Entrust Indi-INT 
+
+BLM Klimaform ,Fire Storm, BURN , STONE MB Stoneja FIRST MB
+AND Elemental Seal Impact IF NEED FIRST
+
+COR: Wizard Roll AND Monk's Roll 
+STONE SHOT WITH MB

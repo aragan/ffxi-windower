@@ -1,0 +1,192 @@
+spilt pt mb
+For upstairs yes usually split
+
+Cor B, SCHs C, BLM A all meet D
+
+
+in pt only one talk in pt only leader and all we do what he say no one type no one talk 
+that best way we can clear
+if leader wrong we follow him without talk
+leader = all in game
+if no one listen that is all solo no pt 
+if any want ldr tell 
+see last run ppl leave u say no ki alex say have no yes no yes ppl leave xD
+order:
+Bztavian  Rockfin  Gabbrath  Waktza  Broccoli  Cehuetzi
+
+
+
+We will start at C Boss Area Aragan and NErti will create Fusion for Alaex to Dia Magic burst
+
+ 6 Skeleton > C boss > G Naraka > G Boss > A boss Area (start tele) > A Boss > E Botulus (Aragan tank no WS plz)
+
+ E boss > B umbrils > B Boss > F Naakuals > Ixion > F Boss
+
+----------------------
+MB PT
+BOSS G/F
+
+Geo: indi-int entrust acumen bog/ea malaise, frazzle
+Run: valence, pulls with gambit, 3x then rayke, will land right before first sc lands, 2nd sc lunge
+Blm:  mana well impact, burn
+Sch1: tab for regen5/embrava then liquefaction > fusion > externator > dimidiation (if he doesn’t wipe tp)
+Sch2: ebul bursting
+Cor: wizard roll, fire shot, concentrate on extending sc
+
+IF 
+RDM  Distract so that the COR and RUN easily skillchains on EFGH 
+BIND F BOSS IF 2 HAND UP AND WAIT 1 OFF
+---------------------
+E and G you can simply do 
+Seraph(RDM) > Hot shot(COR) > Flat(RDM) > Savage(COR) > Dimidation(RUN). 
+You dont even need SCH to make SC.
+---------------------
+For F you can do 
+Leaden(COR) > CDC(RDM) > Wildfire(COR) 
+or 
+Steel Cyclone(RUN) > Evisceration(RDM) > Wildfire(COR). 
+Both are darkness > double darkness
+
+---------------------
+G BOSS Triboulex PLAN
+Party composition: RUN RDM BRD COR GEO WHM
+
+RUN:  Valiance Ignis runes on party.  Pull Triboulex.  Quickly spike hate using Elemental Sforzo and other JAs.  Head directly to the outer wall of the chamber and continually run around the arena at max distance. 
+
+BRD:  Soul Voice + Clarion Call: Ice Carol x2, Honor March, Blade Madrigal, Logical Etude
+
+GEO: Indi-Malaise; Geo-Acumen or Frailty.  Widen Compass the GEO bubble and place it in the center of the arena.  Follow closely behind Triboulex to always keep him in Malaise.  Entrust Indi-Precision on the COR.
+
+RDM:  Gravity II, Paralyze, Dia III, Distract III.  Haste II party.  Use Seraph Blade to SC with COR. 
+
+COR: Wizard Roll + Samurai Roll.  Use Hot Shot to skill chain with the RDM
+
+WHM: Barblizzarra
+
+---------------------
+for nm ["Gartell"] sortie
+
+
+
+Savage(COR)>CrossReaper(DRK)>ImpulseDrive(WAR) for wind hand and LastStand>Impulse>CrossReaper for lightning hand.
+
+--------------------------
+SORTIE PLAN 
+
+Initial buffs/Shard farming:
+
+Outside buffs: Naturalist's Roll -> Protect/Shell V, Aquaveil, then Regen V in full duration set just before entry.
+
+Starting buffs: Head to Device -> Samurai Roll, Accession Firestorm II, Voidstorm II on COR, then split up for Shards:
+
+RDM+RUN+GEO - Head South to D boss area. Pull at least 3 fomors and perform a 4-step SC using whatever you can (we do Seraph Blade>True Strike>Seraph Blade>Freezebite or some combination thereof), then kill them and proceed to D boss once all Shards are obtained.
+
+BLM: Head Northwest from start, pull 3-6 Acuex. Mana Wall and AoE them to 5-15% then finish them off with single target nukes for A Shard (and Metal if 6 pulled), then head South to D boss area or C to help SCH if needed.
+
+COR: Port to B and head South. Kill 5 Air Elementals with a multistep SC. Leaden Salute -> Viper Bite -> Leaden Salute 3-step usually kills them, but can close a 4-step with Wildfire if needed. After killing 5, port to start and head to D boss area or C to help SCH if needed.
+
+SCH: Port to C. Kill 3 Corses, using SC -> MB at least once on each. Be very careful of blood aggro! MBing Helix II can speed up the kills. Once finished, port to start and head South to D boss area.
+
+Ideally, Degei is pulled at around the 6-7 minute mark.
+
+////////
+
+ABCDEFGH Bosses:
+
+
+Boss Order: If you do NOT have Fragment #4, D -> H -> C -> B -> A. Otherwise, D -> A -> B -> C is likely ideal. After first floor bosses, go for whatever Fragments you are missing, then Aminon, then the remaining basement bosses. In our first 9/9 run, we did D>H>C>B>A>G>Aminon>E>F.
+
+Ghatjot / Dhartok: Stone SC, Sniper Shot -> Geohelix works with Distract. Burn and Vidohunir (MDB-10) land.
+
+Leshonn / Gartell: Sniper Shot -> Geohelix or Split Shot -> Cryohelix SC depending on element, or just normal SCH SCs. Vidohunir lands with thunder hand active. Make sure RUN drops Shell, of course. You CAN use Helix I to close Skillchains if you have a Helix II with low damage already active.
+
+Skomora / Triboulex: Sniper Shot -> Ionohelix -> Dimidiation SC, assuming TP isn't eaten. Burn, Vidohunir, and Impact all land. Use Crooked Bolter's Roll afterwards if you didn't get C and/or G Metal - C Metal usually isn't worth it, G metal usually is in our experience.
+
+Degei: Put up Monk's Roll. SCH SC according to element. Vidohunir lands after Flashflood or Fulminous Smash, Burn lands after Flaming Kick or Icy Grasp. Nothing noteworthy lands after Eroding Flesh, sadly.
+
+Aita: Same as Degei, except use Tabula Rasa, Bolster, and Cutting Cards (on the SCH). 3 minutes after pull, if it's not dead, RUN uses Sforzo to soak Vivisection and everyone else runs away.
+
+///////////
+
+Aminon:
+
+
+Before pull - Perpetuance/Accession Adloquium, Voidstorm II, Accession Regen V. SCH stays in Light Arts to Perpetuance Regen V the RUN after Bane of Tartarus.
+RUN pulls -> spam Stone until an elemental TP move is used, then repeatedly heal it to force Bane of Tartarus.
+Demonfire -> Fire
+Frozen Blood -> Blizzard
+Blast of Reticence -> Aero
+Ensepulcher -> Stone
+Ceaseless Surge -> Thunder
+Torrential Pain -> Water
+Impudence - No element, but if RUN doesn't have seal, this inflicts Doom + hate reset, so be wary.
+
+After Bane, stop nuking immediately, and RUN pull it to corner. If Bane kills RUN, whoever has hate pull it to corner instead while RUN gets up and rebuffs. Start Absorb-TPs once Frazzle is on, and use it on cooldown.
+
+RDM: Stymie+Saboteur Sleep II once positioned, then Frazzle III -> Slow/Paralyze II -> Protect V/Shell V/Phalanx II on RUN. Use Absorb-TP on cooldown. Lock main/sub for Seraph Blade for Skillchain.
+
+COR: Caster's Roll -> Monk's Roll on backline in that order, then Crooked Tactician's Roll on self and RDM (and maybe RUN). Use Quick Draw, Icarus Wing, and other TP increasing things such as Volte Harness until Tactician's Roll active to keep up with Skillchains. Close each Skillchain with Leaden Salute - DO NOT use Wildfire, its damage is garbage. Use Random Deal on the RUN for Gambit/Rayke after first usage, so they hopefully are up for both Kaustra usages. Can Wild Card after the second Kaustra.
+
+GEO: Indi-Acumen, Geo-Malaise, Entrust Indi-Haste. Absorb-TP on cooldown - if it's missing, either Frazzle is off or your sets don't have enough MACC. Switch to Indi-INT for Kaustra. Indi-Focus shouldn't be needed unless sets are lacking MACC.
+
+BLM: If Death is up, Comet -> Death every SC. Otherwise, just Comet. Aspir and Myrkr can keep MP full. If Death cooldown is already 36 seconds (the minimum), can use Ebullience Comet instead.
+
+RUN: Lux Valiance/Vallation for defense, Tenebrae Gambit/Rayke for offense. Use Sanguine Blade to assist with WS wall - Reikiko is great for this. Keep Stoneskin up as much as possible. Save Gambit/Rayke for Kaustra if possible. Make sure Valiance hits everyone for recasts.
+
+SCH: Two main Skillchains: Luminohelix -> Stone -> Leaden Salute, and Omniscience -> Seraph Blade (RDM) -> Leaden Salute. Never stop Skillchaining unless COR doesn't have TP! Luminohelix -> Seraph can be used if SCH swaps weapons (only really needed for Kaustra damage). Try to use Absorb-TP on cooldown while still keeping SCs up. Keep capped Noctohelix II on throughout the fight, and MB with Impact in damage gear after BLM's Comet if Death is down. Use Tabula Rasa at some point, and do Kaustra twice. Embrava the backline and Regen V the RUN while TR is active. If fast enough, Storm/Adloquium should not need to be reapplied before the fight ends.
+
+Total time from pull -> kill should be within 10-13 minutes. If you get lucky with Wild Card, it could be shorter.
+
+
+IF Aminon gets a TP move off after Bane:
+Incessant Void - Force Bane of Tartarus again. Be very careful of fetters, as he spawns a large amount of them at lower %s.
+Any other TP move - Recover and continue as normal.
+----------------------------
+react new code
+
+["Leshonn"]={
+    ["Undulating Shockwave"]={
+        ["complete_reaction"]="input /p Changing to Wind Hands! <call13>", 
+    },
+    ["Shrieking Gale"]={
+        ["complete_reaction"]="input /p Changing to Thunder Hands! <call13>", 
+    }       
+}, 
+["Gartell"]={
+    ["Undulating Shockwave"]={
+        ["complete_reaction"]="input /p Changing to Wind Hands! <call13>", 
+    },
+    ["Shrieking Gale"]={
+        ["complete_reaction"]="input /p Changing to Thunder Hands! <call13>", 
+    }       
+},
+
+/p <recast=Stratagems>
+stratgeme tell in chat off or number
+sch code
+
+/p Fusion Scholar SC Closing <t> <recast=Stratagems>
+
+Fusion Scholar SC Opening <t> <call14>
+
+
+Yes C/G scholar will do multistep liquefaction into fusion with 3 immanence in a row
+immanence fire immanence stone immanence ionohelix
+
+AE needs SC open/close/close
+and CG
+
+ need to do immanence stone> immanence fire/pyrohelix > imm anence Ionohelix
+for liquefaction and fusion twostep
+This is how I do with script
+input /ja "Immanence" <me>;
+wait 1;
+input /ma "Stone" <t>;
+wait 5;
+input /ja "Immanence" <me>;
+wait 1;
+input /ma "Fire" <t>;
+wait 7;
+input /ja "Immanence" <me>;
+wait 1;
+input /ma "Ionohelix" <t>;
