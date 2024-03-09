@@ -1,0 +1,873 @@
+ody seg c before inter sch/rdm
+cor nat roll
+sch
+light art>accession>perpetuance
+aquavell
+accession>perpetuance
+stoneskin
+tabula rasala>accession>perpetuance
+regen v
+light art>composure
+haste ii all pt
+cor cutting cards on sch
+
+
+bumba 20
+
+pup ss/ss
+
+manuve fire light wind
+
+set tp
+
+ws swap tp
+=======
+bumba dd pt v20
+brd Songs HM Minuet madrigal Minne STR Etude 
+
+-----
+
+ngai 20
+
+pup ve/ve
+
+manuve fire light water or wind light fire
+
+set da or tp
+
+ws swap da
+
+--------
+mboze 23 yalm
+pup ve/ve
+
+manuve fire light thunder
+set tp
+ws swap da
+
+--------
+
+Xevioso 20 yalm
+nm spell Incisive Denouement /me do maintance 
+pup ve/ss or ss/ss
+
+manuve fire light thunder ve/ss
+
+manuve fire light wind ss/ss
+
+set -dt 
+ws swap da
+
+------------
+
+kalunga 20 yalm
+pup ve/ve
+
+manuve fire light thunder
+set tp
+ws swap da
+
+stats down from Searing Serration
+Incinerating Lahar (gives Weakened)
+///
+dd pt
+ melee use Panacea for the stats down from Searing Serration.
+All DD back off if they get hit with Incinerating Lahar (gives Weakened), wait for Weakened to wear off.
+
+
+--------
+arebati 20
+nm spell Glassy Nova /me do maintaince
+pup ss/ss
+
+manuve fire light wind
+
+set tp
+ws swap tp
+
+--------
+ongo weak for blubt
+
+pup ve/ve
+
+-------
+
+sgili 23 yalm
+
+pup ve/ve
+
+manuve fire light wind or fire fire light
+set da
+ws swap da
+
+---------
+
+Aristaeus 24 yalm
+
+pup ve/ss tp set or ve/ve da set
+fire light wind
+--------
+
+Gigelorum
+pup ws bone crusher
+pup ve/ve
+manuve fire fire light or/ fire light wind
+set da
+ws swap da
+
+-------
+Henwen
+
+pup ve/ve
+manuve fire light wind
+set da
+ws swap da
+
+----
+
+Raskovniche 20 yalm 
+nm spell Infaunal Flop /me do maintance 
+pup ve/ss
+
+manuve fire light thunder
+set tp
+ws swap tp
+---------
+Gogmagog
+manuve fire light light
+set da
+ws swap da
+
+--------------
+
+Marmorkrebs 20 yalm
+pup ve/ss
+
+manuve fire light wind
+set da
+ws swap tp
+----------
+
+T2 Procne 21 yalm
+pup ve/ss
+
+manuve fire light thunder
+set tp
+ws swap tp
+--------
+thuban  34 yalm
+pup ve/ss
+
+manuve fire light wind
+set tp
+ws swap tp
+--------
+shedu 
+pup ve/ss
+
+manuve fire light thunder
+set dt
+ws swap tp
+--------
+--------
+sarama  25 yalm
+
+
+pup ss/ss
+
+manuve fire light wind
+
+set tp
+ws swap tp
+--------
+hidhaegg 
+pup ss/ss
+manuve fire light wind
+set tp or da
+ws swap tp
+//////////
+hidhaegg 2 plan 
+pup ss/ss
+manuve fire light water
+set dt
+ws swap tp
+
+------------
+neak 30' yalm
+
+pup ve/ss
+
+manuve fire light thunder
+
+--------------------
+
+behemoth unity
+
+pup ve/ss
+
+manuve fire light thunder
+
+set tp
+ws tp
+
+-----------
+
+ramuh vd
+
+pup ve/ss
+
+manuve fire light wind
+
+set tp
+ws tp
+
+-----------
+garuda vd
+
+pup ve/ss
+
+manuve fire light thunder
+
+set tp
+ws tp
+-----------
+byakko
+
+pup ve/ss
+
+manuve fire light wind
+
+set tp
+ws tp
+-----------
+seiryu > need counter 
+
+pup ve/ss 
+
+manuve fire light thunder
+
+set da
+ws tp
+
+-----------
+virava
+
+pup ve/ss
+
+manuve fire light thunder
+
+set tp
+ws tp
+
+or mb pt
+
+
+-----------
+duke viper
+
+pup ve/ss
+
+manuve fire light thunder
+
+set tp
+ws tp
+//////////
+cor ws wildfire
+trust tank whm seluht 
+
+-----------
+Pakecet
+
+manuve fire light thunder
+
+set dt
+ws tp
+
+-----------
+Wrathare
+
+manuve fire light thunder
+
+set dt
+ws tp
+
+or dd pt
+all /nin spam sb
+-----------
+-----------
+-----------
+Golden Kist / weak ranger
+
+pup 30'
+ve/ss light water fire
+
+dt
+tp
+-
+dd
+
+blu/nin or rdm/nin or drk/nin
+stun with death trap
+with trust zeid use stun
+
+
+eat poison buffer temp item before pop and Bring Antidote 
+
+food Miso Ramen
+
+other 
+
+ GEO use Geo-Frailty, and Indi-Vex. Entrust whatever, but Indi-Attunement
+
+BLU should set DD spells and Occultation, as well as Tenebral Crush
+Dark SCs (Req CDC)
+
+
+or GEO or a BLM, BLU
+
+or cor blu geo 
+
+or pet party
+
+------------
+Dazzling Dolores 
+
+pup pet tank
+
+trust king cor whm geo ulmia
+or dd pt
+============
+
+dynamis d windrust boss wave 2
+
+tank dd3 whm rdm brd cor 2
+
+brd carol 2h in 50%hp nm 
+
+rdm spam silece distric addl paralze
+
+tank doom set cursna 
+
+baraera  take care curse full attack
+==============
+SHINRYU HTBM
+DD BRD GEO WHM COR
+BARPARLYZA barstona  carol dark 
+in normal dd/nin whm and trust whm ulmia tank arcela2  whm 2
+IN d vd DD2 COR BRD WHM GEO
+
+PLAN 2
+
+THF BRD COR WHM w/ Monbereaux and Sylvie/Ygnas. 
+After buffs w/ N/T you can sleep Shinryu, debuff a bit,
+ moving char into position then just zerg em down w/ savage and rudras, whatever you fancy.
+
+COR: Chaos/Samurai
+BRD: Honor March, Blade Madrigal, Valor Minuet V, Dark Carol, Herculean Etude 
+
+plan 3 
+vd
+SAM -dt
+BRD madrigal  march / Honor March / Valor Minuet V / Dark Carol
+WHM barstona regen v boost str
+
+trust king cor geo
+if u drk trust umila seltus monreax silvia kuro
+solo with trust 
+seth, ulmia, koro, syvlie, monobro
+==============
+alexander Divine Interference VD
+
+no enffebeing nm / no skillchain
+spam SB
+DD TANK COR WHM BRD
+mnk war tank whm brd cor
+easy thf spam 1 ws no sc
+============
+odin HTNM
+in nm 50% do silence him
+pup 2smn cor geo healer
+SOLO enspell/NIN SHADOW UP / no ws only hits
+============
+
+yakshi
+
+tank dd geo whm brd cor
+ 
+or good 2 dd no tank need 
+
+geo - geo-frailty - indi-fury -entrst str
+whm barparalyzza
+dd polearm savagae blade good dmg - or sam 6 steps
+brd schrezo
+=========
+Tumult Curator
+
+tank geo sam sam brd whm
+
+whm spam erse cure barpoison 
+
+brd 2att acc   for whm mpregen
+
+geo pull 1 1 boss 
+
+sam fudo
+
+tank only keep alive no hate 
+
+after 6 wave brd SV+ NITRO SLEEP ALL FOR 1.30 MIN 
+
+after sam used Yaegasumi and killl boss 
+
+Yaegasumi cant kill if u used
+
+====================
+lilith geo fury str Frailty
+sam brd geo cor whm brd
+brd song def2 att2 spd2
+used 2h and mmm every run reset 2h
+sch auruastorm
+barthunder baramnesia
+OR
+easy mnk thf 
+==========================
+
+kirin
+
+first rolls /tank buffs /put am3 up > pop
+
+
+3 smn ramuh volt / tp full 
+
+1 SMN DO / AF/AC / 2 SMN DO / AF/APOGEE 
+AND DO AC in koruyu 
+ 
+cor beast/drachens
+
+leaden salute ws 
+
+Majesty
+geo blster from first entrust torpor onto tank
+failty/torpor
+
+------------
+DD strategy
+
+kirin 
+
+geo blster from first entrust torpor onto tank
+failty/torpor
+
+when pop Kouryu geo recast and come all on he hand
+
+RUN PLD BRD COR WHM GEO, additional parties 
+DD DD BRD COR WHM GEO. 
+Marchx2 Minuetx2 Madrigalx2 Earth Carolx2,
+ Baraera. PLD pops and holds 
+
+ beastmaster to pop and hold adds with crab pet
+
+OR DD PT 
+SPAM WS ALL ON FRONT HAND
+OR 
+BLM TANK ADDS WITH MANAWELL
+DD SPAM KIRIN
+OR TANK GET KIRIN 
+DD PULL ADDS 1 1 AND KIRIN LAST OEN
+--------------------
+kei
+
+Dancing Fullers 
+
+Used at 75%, 50%, 25%, and 10%.
+
+only run 10' 20'
+
+(tank) SCH GEO COR SMN SMN
+
+Have GEO nuke to kill Kei's regen. 
+SCH make Impaction/Fragmentation skillchains and
+ summoners burst Thunderstorm
+or
+RUN, GEO, SCH, BLM, BLM, BRD or COR/WHM or another BLM
+OR DD PT
+-------------
+Kyou
+tp move stratge
+Unfaltering Bravado
+Used at 75%, 50%, 25%, and 10%.
+ Uses Kyou's Unfaltering Bravado - Conal 10,000 damage split among the targets, which cannot be mitigated by any form of DT gear.
+5 player on front everyone take 2k
+dd geo brd cor healer
+
+geo use Geo-Attunement and all behind loupon eat dmg when boss use tp move
+-------------
+
+OU
+
+tp move stratge
+WS NM 95 75 60 55 15 DD GO OUT THIS WS
+95%: Uses Fu's Ebullient Nullification - Dispels/absorbs all buffs within 20'
+rebuff after dispel
+75%: Uses Kyou's Unfaltering Bravado - Conal 10,000 damage split among the targets, which cannot be mitigated by any form of DT gear.
+5 player on front everyone take 2k
+60%: Uses Kei's Dancing Fullers - Inflicts 2500 AoE damage (10')
+runawat 12'yalm
+
+ALL stay in range 21" if more boss pull all
+
+pt pt
+old school plan
+
+smn 4 spam volt ramuh ac/af/am3
+2 smn go first and another go 50hp - nm
+
+dd pt
+old school plan
+
+whm 3 pld 1 pup 1 geo 1 brd 1 cor 1 3 dd
+
+PLD TANK 
+
+PUP GO FROM 95HP TO 1HP
+
+
+OR DD PT small group vetran
+
+brd cor tank dd whm
+
+-------------------
+
+omen mid boss stratege
+
+Glassy Thinker 
+tp move : Pain Sync = no do ws 5 sec
+
+Glassy Gorger
+tp move:Blessing Sync copy buff= not buff all 
+ 
+===================
+
+
+maju
+
+ RDM blind him and tank give back
+
+geo  geo-frailty on nm ind-torpor
+
+cor roll pets attack - pets accuracy
+
+3 smn ramuh volt 1h ac/am3/af
+
+dia ii
+
+OR DD PT
+TANK OR DD RDM COR BRD HEALER GEO
+RDM blind him 
+
+===================
+
+albumen
+
+all out range
+only tank brd 
+buff
+COR ROLL PETS MAGE ACCURECY AND HP REGEN PETS
+
+first smn titan earther armor  
+dia and wind defend
+
+AT3 SMN NIRVANA
+
+tank pull pop
+
+brd sleep adds from start again sleep
+
+geo  geo-frailty on nm ind-torpor
+
+
+AFTER BUBBLE GO PETS RAMUH VOLT WITH AF/AC
+
+
+DIA II AND LEADEN SALUT COR WS
+
+OR DD PT 
+TANK BRD COR HEALER GEO DD 
+TANK PULL ADDS FAR
+DD SPAM NM
+BRD SLEEP ADDS
+
+=========
+
+
+zerde
+with react addon for stun
+
+rdm chainspell and ja spam stun 
+or sch make sc and stun
+
+tank 1h flash
+
+3 smn nirvana AM3/AC/AF
+
+1 ramuh shock squall
+2 ifirt meteor strike
+
+to make sc
+
+geo ind-languor geo-malaise
+
+
+mb burn pt 
+sch make sc fusion
+2 blm mb
+cor wiz mp roll
+tank
+geo ind-languor geo-malaise
+======
+
+VINIPATA
+
+GEO INDI-TORPOR geo-frailty
+
+dia ii
+
+brd sleeps 2
+
+3 smn ramuh volt 1h ac/am3/af
+
+cor roll pets attack - pets accuracy
+
+======
+
+
+teles 
+
+tank pull
+
+
+geo indi-torpor - geo- fratilty
+
+3 smn nirvana ramuh volt spam 1h ac/am3/af
+
+dia 2
+
+cor roll pets attack - pets accuracy
+
+OR
+
+DD PT 
+TANK COR BRD HEALER 2DD OR GEO
+ALL-DT -MDT
+
+============
+
+schah
+
+
+dia 2
+
+cor roll pets attack - pets accuracy
+
+geo indi-torpor - geo- fratilty
+
+
+4 smn nirvana ramuh volt spam 1h ac/am3/af
+
+
+and reset 1h mmm 
+
+wild card
+-
+
+DD PT PLANE
+TANK DD COR BRD HEALER GEO
+
+TANK GET BOSS FAR 
+
+DD PULL ADDS 1 1 KILL
+========
+
+
+Erinys - he have mpk - dmg take hp
+
+dia 2
+
+geo indi-torpor - geo- fratilty
+
+3 smn nirvana ramuh volt spam 1h ac/am3/af
+
+cor roll pets attack - pets accuracy
+
+1 smn cait saith do mewing liliaby sleep adds
+and somon and do it again 
+
+
+can cor go pld pt roll defense and mage evation for pld pt
+and brd give songs defens regen
+
+
+==========
+
+Onychophora
+
+15' out range
+
+he have mpk - dmg take hp
+
+physckal dmg up 50% hp nm
+magw dmg down 50% hp nm
+
+dia 2
+
+
+1 smn buff diapolos nether blast after 50% hp nm
+
+4 smn nirvna garuda  before 50% hp nm - hestega ii - predator claws
+
+geo indi-torpor - geo- fratilty
+
+cor roll pets attack - 
+pets accuracy or mage accuracy or mage evasion
+
+
+==============
+
+ WOC  
+
+dd pt 
+
+tank 4dd cor brd 2 healer geo rdm
+
+
+RDM silence ditracrt dia
+
+--------
+
+GEO Bolster Frailty and Dia II
+
+------------
+
+NUKER SPAM T1 to stop special ability SP 
+/NM do it  between roughly 50-59%.
+
+Wind damage will prevent the following SPs: Call Wyvern, Invincible, Benediction, Manafont and Hundred Fists
+Water damage will prevent the following SPs: Meikyo Shisui and Mijin Gakure
+Fire damage will prevent the following SPs: Chainspell
+Ice damage will prevent the following SPs: Perfect Dodge, Mighty Strikes, Blood Weapon and Soul Voice
+
+---------
+if charm tank Geomancer use Indi-Gravity
+----------
+buff Barthundra, Thunder Carolx2/Marchx2/Minx2/Madx2, 
+buffer against petrify
+
+
+----------
+pt mage
+
+tank brd geo sch cor healer 2blm 1rdm
+
+Typically beaten by having a Scholar repeatedly do a Gravitation
+ Skillchain so Black Mage can burst Death and Comet.
+
+Another good option is to instead have a Scholar do Distortion and have a Corsair with an extremely
+ good Leaden Salute set fire off Leaden Salute to create a [[Darkness] skillchain. Not only will Leaden Salute hit very
+ hard but so will the resulting skillchain. Black Mages can burst Death off that skillchain, 
+essentially giving you three heavy hits in one
+
+---------
+---------
+srortie 
+mb pt
+Sch x2, Run, Blm, Cor, Geo
+dd pt 
+tank dd rdm cor brd healer
+or
+ddx2 rdm brd cor healer
+B/F 
+leshonn/Gartell
+THUNDER hand >no debuf no helix
+Zap: Copies one debuff from Gartell to all party
+whm: baramnesia
+wind hand >absorbs buffs> tank remove shell or dd remove protect
+
+proc blue disable oldest elemental aura he had
+Wind hand: proc 70% Ice,
+Thunder hand: proc 70% Earth
+Magic bursting strongly proc
+
+B
+spam sb  kill fast 
+
+DD PT
+Frailty and Dia
+geo indi-torpor - geo- fratilty
+
+MB PT
+geo ind-languor geo-malaise
+
+--------------
+
+for nm ["Gartell"] sortie
+
+Savage(COR)>CrossReaper(DRK)>ImpulseDrive(WAR) for wind hand and
+ LastStand>Impulse>CrossReaper for lightning hand.
+
+-------------
+
+SKILCHAIN COR SCH
+
+Scission STONE MB
+
+HOT SHOT Earth ElementS Scission
+Sniper Shot Earth Element Scission
+Numbing Shot Earth Element Scission
+
+Fusion  FIRE MB
+
+Sniper Shot Thunder Element Fusion  
+
+Distortion ICE MB
+
+Hot Shot Earth Element Distortion 
+Leaden Salute Earth Element Distortion 
+
+-------------------
+POWER PEACH PLAN 
+
+tank sch/rdm cor/ninx2 rdm/ninx2
+
+remove shell from all pt its copy it
+
+tank pull all on corner and all face mob on tank 
+and all mobs back on pt 
+
+sch/rdm  enspell thunder aoe embreva
+ AND OTHER BUFF
+
+rdm/sch sleepja
+
+ wpn SU5 ws Sanguine Blade
+HASTE 2 ALL AND OTHER BUFF
+
+cor roll wiz/warlock - sam/crit
+ws leaden salut - 
+
+-------------
+
+aminon
+
+dd melee style strat megaboss sortie
+
+DNC/drg, PLD/sch, GEO/drk, BRD/drk, COR/drk, RDM/drk
+
+absort tp all time
+
+geo fury focus fality
+brd hm attx2 Smad+Bmad =2xacc songs 
+cor tact misers
+
+strat not hit only wait tp 3k do ws 
+
+ 

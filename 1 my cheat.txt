@@ -1,0 +1,433 @@
+Miiyamoto  whm want vagary and he in ls last 
+vagary Perfidien+Plouton
+/p <recast=Strategems>
+strategeme massage in pt off or number
+5sBRD sbCOR+8r20+ HEAVY sbDDr20+ healer sbRDMr20+
+hi shinryu vd u join ? need healer brd cor sam 
+Pre-entry ody seg Enhancing Magic
+Naturalists Roll Embolden Protect - Shell - Regen - Haste
+Furrow
+sheolhelper
+lua u autocor
+parse reset
+ Reisenjima HELM 7 NM LFM BRD RDM 5/7
+<wait1> Furrow harvest Furrow start 
+
+hi Dynamis - Windurst D wave 1 clear u join ?
+hi SORTIE D E BOSS u join ?
+every kill 500k if drop give 15 mill this offer in UNM
+hi ody seg c  u join ?
+t1 1 nm 10 mill t2 1 nm 10 mill t3 1 nm 15 mill t4 20 mill
+aset set ody
+aset setlist
+ispy Odyssey
+craft repeat 90
+craft support
+Sublimator
+/targetnpc == gs enable all
+gs disable all  >>for smn during Astral Conduit 
+odyssey seg c farm u join ?
+/yell odyssey SEG C farm LFM brd whm dd tank 2/6 
+/itemsearch "Orison Bliaut"
+//repeater command input /yell UNM/Eschas equip Abj. buy
+//repeater command input /yell odyssey V0 clear All Boss-ABC/UNM/Eschas equip Abj. vagary 5/5 VR misson buy
+t1 10m 2 12m t3 15m t4 20mil
+repeater delay 120
+Xevioso Kalunga Arebati ngai
+/yell odyssey V0  Kalunga clear mind going in 5 min buy
+/tell whereisdi /
+acon equipset virava 
+/itemsearch "Legshard: BST"
+//pouches Vidmapire's coffer 
+ VD LFM tank dd rema cor brd whm/blm 2@ fast run spam
+dyn jeune inter only 2/3 u can come ?
+/equip Ammo "Jug of livid broth"
+//repeater command input //ah sell Ruthenium Ingot 0 4581000
+ah sell Ruthenium Ingot 0 5000000
+sellnpc Colibri Beak
+sellnpc Colibri Feather
+u have 5 jobs 99 and good gears ?
+linkshell msg  /lsmes
+/tell whereisdi /
+
+//sparks buyall Acheron Shield
+//sellnpc Acheron Shield
+
+mute music
+
+/mutebgm
+//fisher add all //fisher start  -- to fix addon fisher to start
+acon equipset -pdt
+gs c setftp
+/ws "Last Stand" <t>
+latentchecker run
+/lockstyle off
+/refa all
+//maga add Weapon Skill Damage 5
+//maga continue    Taupe false  Pellucid false Fern true 
+//maga style familiar
+//maga search store tp
+//maga search "Blood Pact" damage
+add pet: magic attack 30 
+Load	//lua l valkyrie
+Unload	//lua u valkyrie
+Register Chamber	//valk register <Ortlinde's Chamber>
+Enter	//valk enter
+Drop Lamp	//valk drop
+Invincible
+//lua l Quetz
+//Quetz start
+
+//equipviewer pos 380 450
+/acmd leader name
+//parse show defense
+//parse reset
+//lua l parse
+//parse report damage p
+//ffxidb map pos 10 10
+//sparks buyall Darksteel Buckler
+sparks buyall Holy Sword
+//lua r autopup
+//autopup on
+//autopup dark 0
+Jug of 
+Vigil Weapon they can be stored with Ghanraam (K-10) in exchange for 1 Imperial Bronze Piece per weapon
+
+=======
+
+/lockstyle off 
+//Dressup self race Elvaan m 1a
+
+ //du self face 1a or 2a or 2b
+=====
+
+Trusts
+
+- //tru save `<setname>` : Save trusts
+
+
+//treasury drop add
+//tr d a pool
+
+
+Escutcheons
+//ec autocraft
+
+//bazaar Impac. Sphere 40000
+//bazaar Wind Crystal 1
+
+//repeater command input //ah buy Lustreless scale 1 900000
+//repeater command input //ah buy Riftdross 1 380000
+//ah buy Lustreless Hide 1 680,000
+//ah buy Lustreless Scale 1 698000
+//ah buy Bruised Starfruit 0 10000
+//ah buy Heroism Crystal 1 1800000
+//ah sell heavy metal 0 50000
+//ah buy Alexandrite 1 250000
+Alexandrite  
+//AuctionHelper buy wind crystal 1 5000
+//AuctionHelper buy "fire  crystal" 1 5000
+//AuctionHelper buy "Lightning  crystal" 1 5000
+Cluster  
+//ah buy fire  Cluster 1 120000
+
+
+//craft food "Coconut Rusk"
+//craft support
+//craft repeat 900
+//craft put "Wind Crystal"
+//craft put "Lightning Card"
+//craft put "Impac. Sphere"
+//craft put "Light Sphere"
+//craft put "Fragm. Sphere"
+Fragm. Sphere
+Lightning Card
+//craft food “Kitron Macaron”
+//craft delay 17
+//craft resume
+//craft pause
+//craft make "Gold Ingot 2" 50
+//craft status
+//craft make "Hepatizon Ingot" 60
+Scission sphere
+//craft make "Impaction sphere 5" 99
+//craft make "Liquefaction sphere 5" 99
+//craft make "Reverberation Sphere 4" 99
+//craft make "Induration Sphere 4" 99
+Palladian brass chain
+craft make "Palladian brass chain" 99
+craft make "Palladian brass ingot" 99
+//sparks buy Darksteel Buckler
+sparks buyall Holy Sword
+craft make "Darksteel Scales" 99
+sellnpc Colibri Beak
+
+//repeater command buy Alexandrite 1 265000
+//repeater command buy Fire crystal 1 8000
+//ah buy Alexandrite 1 250000
+
+//craft find "Impaction sphere" 
+
+
+
+QuickTrade.lua	
+//tradenpc 10,000 gil 24 "fire crystal" 12 "earth crystal" 18 "water crystal" 6 "dark crystal" "Ephemeral Moogle"
+//tradenpc 792 alexandrite
+//tradenpc 100 "1 byne bill"
+//tradenpc 10 sapara
+//tradenpc 8 Spark spear
+//tradenpc 80 "earth crystal"
+//tradenpc 80 "Wind crystal"
+//tradenpc 80 "Fire Crystal"
+
+//tradenpc 96 "Lightning Crystal"
+AuctionHelper
+//AuctionHelper buy [item name] [stack] [price] -- buy an item on auction house
+//AuctionHelper buy Reraise Earring
+//ah buy wind crystal 1 6000
+//AuctionHelper buy "wind crystal" 1 5000
+//ah buy "wind cluster" 1 120000
+earth crystal
+Lightning Crystal
+//ah buy Lightning Crystal 1 10000
+//ah buy earth crystal 1 3000
+//ah buy Fire Crystal 1 10000
+//ah buy Bztavian Wing 0 300000
+//ah buy Hepatizon Ore 0 30000
+ah buy S. Astral Detritus 0 120000
+//repeater command input //ah sell S. Astral Detritus 0 89000
+<wait4>
+sparks
+//sparks buyall Darksteel Buckler
+//sparks buyall Acheron Shield
+//tradenpc 8 Mace
+//sellnpc Acheron Shield
+file.al/s8z8gxfwdnsj/bigtits_850.mp4
+Synthchain
+//synthchain help -- Prints Help Menu
+//synthchain setchain Element1 Element2 Element3.... 
+(can build long chains, manually edit txt file if you want longer than cmd line input gives you)
+//synthchain inv -- Populates inventory menu.
+//synthchain start -- starts chain
+//synthchain stop -- stops chain
+//synthchain log -- turns on/off logging. By default there's a pretty deep debug log that will print out.
+
+//synthchain setchain Liquefaction Impaction Fragmentation Light Detonation
+
+//synthchain setchain Detonation Scission Impaction Liquefaction Scission Liquefaction Impaction Reverberation Impaction
+//synthchain setchain Detonation Scission Liquefaction Impaction Fragmentation 
+//synthchain setchain Detonation Scission Liquefaction Impaction Fusion Fragmentation
+//synthchain setchain Impaction Liquefaction Fusion
+//synthchain setchain Liquefaction Impaction Fragmentation
+//synthchain setchain Reverberation Impaction Impaction Liquefaction Fusion
+//synthchain setchain Transfixion Scission Fusion
+synthchain setchain Detonation Scission Transfixion Scission Fusion
+synthchain setchain Impaction Liquefaction Transfixion Scission Fusion
+
+synthchain setchain Induration Reverberation Distortion
+
+Transfixion -> Scission = Distortion
+
+Induration Reverberation Fusion 
+
+//synthchain setchain Detonation Scission Liquefaction Impaction Gravitation
+
+
+//fillmode  >> for see all behinde wall in nyzle isil
+//ispy : Turns spying on and off.
+
+//ispy : Turns spying on and off.
+
+//ispy target: Targets the currently spied NPC.
+
+//ispy report: Turns iSpy reporting found targets to party on and off.
+
+//ispy Odyssey: Looks for chests in Odyssey.
+
+//ispy Nyzul: Looks for Runic Lamps in Nyzul.
+Selh'teus
+//ispy questions: Makes it looks for ??? as found in many places.
+
+
+Mireu
+Quetzalcoatl
+ffxi quetzalcoatl's Sibelius
+
+//repeater
+
+
+Lastsynth: Can be used to repeat your last synth multiple times. //repeater command input /lastsynth
+
+Shouts: Can be used to shout something over and over again. //repeater command input /shout Selling Alexandrite !
+
+Spells: Can be used to cast a spell over and over. //repeater command input /ma "Fire"
+
+Auctioneer: Can be used to repeatedly buy something while afk, specifically: //repeater command buy Alexandrite 1 700000
+
+As a timer: Can use it to remind yourself of a pop time. //repeater delay 300 
+//repeater command input /echo Guy with a 5 minute repop is popping now!
+
+//repeater delay Sets the delay between repeat in seconds.
+
+//repeater on/start/go Starts repeating the command you set.
+
+//repeater stop/quit/off Stops repeating the command.
+
+//repeater repeat Starts or stops the command repeating
+
+
+
+Post-entry
+SAM - Chaso Roll
+RUN Embolden - SCH Accession - Perpetuance - Phalanxx on RUN
+SCH & COR Coordinate Wildcard for Tabula Rasa
+
+red proc trust R
+ongelouts sword
+Curilla SWORD
+halver polerm
+Shikaree Z  polerm
+Zeid GS
+/blacklist add
+
+/battlebgm
+
+Alpluachra  Bucca   Puca
+/checkparam
+
+hand to hand delay martal art calculator
+
+ (280 + 96 - x) * (1024 - 256 - 448) / 1024 = (480 + 96) * 0.2 
+
+Does anyone have anything better than (cheaper or faster):
+Det > Scis > Liq > Imp > Grav > Dist > Dark = 45 spirit - 56,600 gil
+Imp > Liq > Scis > Liq > Imp > Frag > Light = 42 spirit - 57,200 gil
+
+Fire > Ice > Wind > Earth > Thunder > Water > Fire
+ambuscade frog
+attuner flameholder manajammer ii iv speedloader ii  magniping i ii  turbu charger i ii coller ii auto-repair kit iv  optic fiber i ii
+
+apex 
+geo  Indi Focus indi acumen geo malaise. 
+----------
+Geo-Frailty  Torpor
+Fury= Enhances attack for party
+==============
+HYPERS WEAPONSKILL
+
+
+Tachi: Goten (lightning)
+Tachi: Kagero (fire)
+Tachi: Jinpu (wind)
+Tachi: Koki (light)
+
+Blade: Teki (water)
+Blade: To (ice)
+Blade: Chi (earth)
+
+Flaming Arrow (fire)
+Hot Shot (fire) 
+
+
+ranger cor skillchain
+
+ Hot Shot>Trueflight>>Distortion>Leaden Salute>>Darkness 
+==============
+Samurai Roll LUCKY 2
+Chaos Roll LUCKY 4
+Wizard's Roll  LUCKY 5
+
+for farming voidwatch heavy metal
+bind %c send @all exec cells.txt
+
+then have a file called cells.txt in your Windower/scripts folder:
+
+input /targetnpc;
+wait 0.1;
+input /item "Rubicund Cell" <t>
+
+Copying the entire Macro Set (Book)
+
+1. Display the Macro Set that you wish to copy and move the cursor to the options menu by pressing the ‘+’ key on numerical keypad.
+2. While holding ‘+’, press and hold the ‘Ctrl’ or ‘Shift' key.
+3. At the top of the screen, the message "Copy entire Macro Set" will appear.
+4. Press "Copy" while holding ‘Ctrl’ or ‘Shift’ key to copy the set.
+5. Use the up or down keys to move to the set you wish to paste onto, and move to option menu by pressing the ‘+’ key on the numeric keypad.
+6. Press "Paste" while pressing and holding the ‘Ctrl’ or ‘Shift’ key. Select ‘Yes’ on the confirmation screen to copy the macro set.
+
+
+
+Sortie: cllear Boss A, B, C, E, F, G
+melee party tank dd rdm healer brd cor 
+mb party tank sch blm2x cor geo
+
+
+
+        <RecastX>20</RecastX>
+        <RecastY>350</RecastY>
+        <BuffsX>200</BuffsX>
+        <BuffsY>350</BuffsY>
+        <CustomX>380</CustomX>
+        <CustomY>350</CustomY>
+
+==============
+
+keyboard buttons bind
+//listbinds    .. to show command keys
+//bind num1 <something>
+//bind !num1 <something>
+//bind ^num1 <something>
+//bind @num1 <something>
+it might be numpad1
+bind numpad1 input /ma "warp" <me>
+@ being windows key
+! alt key
+^ ctrl key
+^ 	Ctrl
+! 	Alt
+@ 	Win
+# 	Apps
+~ 	Shift
+
+//video start 1024 768 30 50
+//config FrameRateDivisior 1 
+
+gs c cycle RuneElement
+gs c RuneElement 
+
+Linkshell shout
+
+MORRIA-Linkshell End-Game events, help, #discord #fun Do you need it? PST primetime, lots of activity /t.
+
+
+
+??  ** LINKSHELL** ??
+
+??  **Linkshell Primetime**??
+   3~8 PST / 6~11 EST
+
+Welcome to **MORRIA**, we are here to help each other acquire friendship and power in Final Fantasy XI. 
+We are focused on end-game, but anyone with the spirit of growth is most welcome.
+
+? ? **Modus Operandi** ? ? 
+
+**1**. Gear is a matter of time, everything can be obtained if one is willing to learn.  
+ 
+?? Our greatest members could have logged in for the first time today, so we must help them grow.
+
+**2**. **How** one does things is just as important, if not more than **what** you do. 
+
+?? As such, we do not employ **blatant exploits**, nor the following behaviors as a Linkshell:
+
+?? Glitching mobs to where they can't attack. 
+??Cupper/clipper/JA0/POSHacking/Anchor Tools.
+??Duping etc.
+??If you need to think about it, or if you couldn't use it while under public view, you probably shouldn't be using it. **I.E. Common sense applies.**
+
+
+?? This is to protect the investment that people have put into their characters and the shell overall. It is a shame when gear leaves the shell, even worse when the hard work is "deleted".
+
+**3**. As citizens of Asura we should strive to improve the overall health and culture of the Server via helping others, sharing knowledge, obtaining strength and striving for mastery.
+
+**4**. Our Linkshell members come first for slotting events / content.  
+??Take our members first, teach them, grow them - and we will transcend all notion of limitation.
