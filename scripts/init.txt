@@ -17,12 +17,13 @@ bind sysrq screenshot jpg hide
 bind ^v paste
 // bind f6 load Guildwork
 
-lua load SubTarget
+// lua load SubTarget
 // lua load targetinfo
+lua load autoenterkey
 lua load autoMB
 lua load schskillchain
-lua load TargetPlus
-lua load targeter
+// lua load TargetPlus
+// lua load targeter
 // lua load allseeingeye
 lua load QuestLog
 lua load OhNoYouDont
@@ -39,13 +40,14 @@ lua load Furrow
 --lua load AutoJoin
 lua load tradenpc
 lua load sellnpc
-lua load anchor
+// lua load anchor
 // lua load gearinfo
 lua load Skillchains
 lua load Repeater
 lua load React
 lua load sheolhelper
 lua load trade
+lua load ShoutAlert
 lua load Sublimator
 // lua load Cancel
 --lua load Facing
@@ -72,8 +74,12 @@ lua load chatfilter
 lua load DParty
 lua load SirPopaLot
 --lua load smarttarget
---lua load AuctionHelper
-wait 30
+lua load AuctionHelper
+lua load whereisdi
+lua load findall
+lua load TargetBar
+wait 60
 lua load GearInfo
+lua load ShoutAlert
 // gi show logo
 
