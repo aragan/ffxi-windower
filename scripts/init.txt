@@ -60,7 +60,7 @@ lua load shortcuts
 lua load spellSpammer
 // lua load rolltracker
 --lua load fuckoff
-lua load enemybar2
+// lua load enemybar2
 lua load EasySpells
 // lua load EasyNuke
 --lua load closetCleaner
@@ -78,6 +78,7 @@ lua load AuctionHelper
 lua load whereisdi
 lua load findall
 lua load TargetBar
+lua load Eneresist
 wait 60
 lua load GearInfo
 lua load ShoutAlert
