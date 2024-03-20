@@ -870,4 +870,62 @@ cor tact misers
 
 strat not hit only wait tp 3k do ws 
 
+// 
+aminon kitting strat
+RDM/drk, DRK/drg, RUN/sch, BST/dnc, BRD/geo, COR/drg
+
+--------------
+
+ody pt strat 
+
+
+Odyssey Gaol A2 Marmorkrebs V20
  
+mb strat
+RUN COR RDM SCH BLM BRD
+
+COR: Wizard + Caster
+BRD: SV March, Honor March, Water Carol x2, Scherzo (Scherzo really important)
+SCH: Thunderstorm2, spam SC for thunder MB. MB Helix2 at first SC if possible.
+RDM: Haste2
+RUN: Sulpor. Bring Panacea
+
+sc order 
+
+ Freezebite
+sch Water Element Fragmentation
+Last Stand Light
+Dimidiation Light [lvl.4] 
+
+or 
+
+ Skillchain Ice > Water (Fragmentation) > Last Stand (Light) > Dimidiation (Light). Burst Thunder
+
+NM TP move can Dispel. Seems to resist physical damage.
+Weak to Thunder magic damage.
+When below 50%, will use 2 TP moves back-to-back.
+Will use Mighty Strike / Invincible / Elemental Sforzo / other? once at 75% HP. 
+Will give a random global geo debuff for the rest of the fight (attack down / defends down / magic attack down / magic defends down / accuracy down / magic accuracy down etc) to the party.
+Will summon 1 add when it use SP. 
+About 1.9 million HP? Gain Regen if add is alive. Regen is about 2500HP / tick?
+Add have about same HP as boss?
+Add put everyone that has enmity on boss to its hatelist?
+Need to keep doing action on add to keep hate?
+Add can be Sleep, but require Immunobreak.
+Add can be Bind Gravity.
+Add resist Troubadour Lullaby?
+
+Plan: 
+SC: RUN Freezebit + SCH Water = Fragmentation + COR Last Stand = Light
+COR save Random Deal and Wild Card, to reset SCH's Stratagems and RUN's Rayke.
+SCH MB Helix2 on first SC, try to keep 10k+ Helix2 damage up at all time.
+Ideally push to 75% before SCH need to use Tabula Rasa. When SCH use Tabula Rasa, SCH solo SC.
+BLM Mana Wall when NM about to reach 75%, as the add will most likely go to BLM.
+When add pop, RDM grab add with Bind / Gravity / Stymie Sleep2, and RUN move the NM to another spot (so the Bound add won't hit whoever's closest). RDM keep add away from the Party.
+BRD make sure Scherzo up on RUN as NM can Dispel.
+
+After reviewing, our initial position on the bridge was bad, mage should have stayed on the North side of the bridge, more space to maneuver when add pop, instead of the bottleneck on the bridge.
+
+
+------
+
