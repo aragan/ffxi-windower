@@ -22,11 +22,9 @@ bind ^v paste
 lua load autoenterkey
 lua load autoMB
 lua load schskillchain
-// lua load TargetPlus
-// lua load targeter
 // lua load allseeingeye
 lua load QuestLog
-lua load OhNoYouDont
+// lua load OhNoYouDont
 lua load finalAlert
 lua load finalAlert 250 330
 lua load Equipviewer 380 500 --for screen res 1920-1080
@@ -40,7 +38,7 @@ lua load Furrow
 --lua load AutoJoin
 lua load tradenpc
 lua load sellnpc
-// lua load anchor
+lua load anchor
 // lua load gearinfo
 lua load Skillchains
 lua load Repeater
@@ -60,7 +58,6 @@ lua load shortcuts
 lua load spellSpammer
 // lua load rolltracker
 --lua load fuckoff
-// lua load enemybar2
 lua load EasySpells
 // lua load EasyNuke
 --lua load closetCleaner
@@ -73,12 +70,17 @@ lua load chatfilter
 --lua load mob
 lua load DParty
 lua load SirPopaLot
---lua load smarttarget
+// lua load smarttarget
+// lua load TargetPlus
+// lua load targeter
+lua load ATA
 lua load AuctionHelper
 lua load whereisdi
+lua load enemybar2
 lua load findall
 lua load TargetBar
 lua load Eneresist
+// lua load autoAssist
 wait 60
 lua load GearInfo
 lua load ShoutAlert
