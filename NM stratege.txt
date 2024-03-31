@@ -846,7 +846,7 @@ and all mobs back on pt
 sch/rdm  enspell thunder aoe embreva
  AND OTHER BUFF
 
-rdm/sch sleepja
+rdm/blm sleepja
 
  wpn SU5 ws Sanguine Blade
 HASTE 2 ALL AND OTHER BUFF
@@ -882,14 +882,14 @@ ody pt strat
 Odyssey Gaol A2 Marmorkrebs V20
  
 mb strat
-RUN COR RDM SCH BLM BRD
+RUN COR RDM SCH BLM GEO
 
 COR: Wizard + Caster
-BRD: SV March, Honor March, Water Carol x2, Scherzo (Scherzo really important)
+???BRD: SV March, Honor March, Water Carol x2, Scherzo (Scherzo really important)
 SCH: Thunderstorm2, spam SC for thunder MB. MB Helix2 at first SC if possible.
 RDM: Haste2
 RUN: Sulpor. Bring Panacea
-
+GEO: Geo-Malaise / Indi-INT / Entrust Indi-Acumen. Bolster around 40%. Burst during windows
 sc order 
 
  Freezebite
@@ -922,10 +922,192 @@ SCH MB Helix2 on first SC, try to keep 10k+ Helix2 damage up at all time.
 Ideally push to 75% before SCH need to use Tabula Rasa. When SCH use Tabula Rasa, SCH solo SC.
 BLM Mana Wall when NM about to reach 75%, as the add will most likely go to BLM.
 When add pop, RDM grab add with Bind / Gravity / Stymie Sleep2, and RUN move the NM to another spot (so the Bound add won't hit whoever's closest). RDM keep add away from the Party.
-BRD make sure Scherzo up on RUN as NM can Dispel.
+GEO: Geo-Malaise / Indi-INT / Entrust Indi-Acumen. Bolster around 40%. Burst during windows
 
 After reviewing, our initial position on the bridge was bad, mage should have stayed on the North side of the bridge, more space to maneuver when add pop, instead of the bottleneck on the bridge.
 
 
 ------
+ongo v25 
+sc
+SCH Grav  RUN Ruinator  COR Wildfire
 
+-------------
+Gigelorum v25
+
+RUN MNK WAR BRD COR RDM
+
+COR: Samurai + Chaos
+BRD: SV Minuet x2, Scherzo, Honor March, Dirge (on DD), Sirvente (on Tank)
+RDM: Haste2
+
+
+Weak to blunt. 
+When below 50%, will use 2 TP moves back-to-back.
+Will use Mighty Strike / Invincible / Elemental Sforzo / other? once at 75% HP and 40% HP.
+Boss will then give a random global geo debuff for the rest of the fight (attack down / defends down / magic attack down / magic defends down / accuracy down / magic accuracy down etc) to the party. When Boss use 2nd SP, a new global geo debuff will be chosen randomly.
+Will summon 1 pet each time Boss use SP, can have up to 2 pets.
+Boss gain Regen if pet alive.
+1 pet alive, Boss Regen about 2.5k-3.5k HP/tick?
+2 pets alive, Boss Regen about 6.5k HP/tick?
+Killing the pets will remove the Boss's Regen.
+Boss has about 2.3 million HP? 
+Pet probably have over 1million HP?
+Pet put everyone that has enmity on Boss to its hatelist?
+Need to keep doing action on pet to keep hate?
+Pet will ignore the person the Boss is targeting, unless only 1 person left.
+Can Bind / Gravity / Sleep pets. Easier to Bind Gravity than Sleep.
+Boss has WS wall (if keep using same WS, the damage will drop), need to alternate WS.
+
+Plan: 
+In Lobby area: Tactic Roll and GEO Entrust as needed.
+RDM Saboteur Gravity2 on Boss, Tank build hate then kite boss.
+DD chase and attack Boss.
+RDM Bind / Gravity / Sleep pets when they pop.
+Save Random Deal / Wildcard to reset Warcry / Impetus / SP, preferably during the last 40%.
+If someone got Dispelled, rebuff them fast. Priority on Dirge / Sirvente.
+-------------
+Gigelorum v25
+2ki
+PLD DRK WHM PUP GEO BLU
+RUN MNK WAR BRD COR RDM
+1KI
+WHM: buff Barstonra and Auspice  
+dia, boost str haste all 
+
+zombie effect (unable to cure until debuff times out). 
+This zombie cannot be removed using Sacrifice
+
+Keep everyone healed. Try to keep tank 
+close to full HP because they will get hit by
+ a zombie effect (unable to cure until debuff
+ times out). This zombie cannot be removed 
+using Sacrifice. Use Afflatus Solace and 
+single target cures to keep a stoneskin on 
+tank in lieu of curing. 
+Put up a Barstonra and Auspice on DDs. 
+
+all set dt gear -50%
+GEO = haste, fury, barrier
+use ws Exudation spam
+
+DRK absort vit start first ws armour break
+club spam ws Judgment
+
+BLU use ja Diffusion buff pt Mighty Guard 
+Diamondhide Frightful Roar def nm 
+Healing Breeze regen pt
+Winds of Promy. remove debuff from pt
+spam Reaving Wind to Reduces TP for nm
+White Wind to help heal pt
+WS spam Black Halo
+
+pld shield aegis postion back to a wall
+
+ You should be able to drop it to 79%
+ within 15 minutes, but I wouldn't go below 
+75%. This setup won't be pushing it much below
+ that anyway. 
+
+
+---------------
+
+sortie nm BF/DH
+
+Optional objectives:
+I didn't include objectives such as resting/Devices because they are so quick to do and not really time consuming that you can just run there and do them instantly and on the way to the next area. We do them all except keys. We rest, buff spell, hurray, kill mob at C device and drop entry item.
+
+Melee Sortie :
+
+Mostly none.  We are choosing Weaponskills that can incidentally SC but are just zerging.
+  Aita/Degai in particular, we actively try to avoid SCs.
+Aita/Degai: Torcleaver/Upheaval/Savage Blade/Black Halo.  We try to avoid SCs because sometimes we heal him 
+:x
+Skomora/Triboulex: Torcleaver/Upheaval/Savage Blade Black Halo (I try to SC off my own Torcleavers and the SBs and Black Halos for nice damage) but we don't really hold for SCs because of his annoying TP reset.
+
+Leshonn:  No SCs at all.  Everybody, including DRK, switch to Savage Blade
+
+Gartell:  I use Cross Reaper and Quietus while WAR uses Impulse Drive.  WAR is going to spam Impulse during Mighty Strikes because he'll hit all 9s.  I try to SC where I can but try to get out as many Weaponskills as possible.  This is especially true when he is starts with Wind Hand; I just spam Cross Reaper.  Quietus is only used if I have an opportunity to close a 3-step which is rare.  What's nice though is Impulse - Cross Reaper - Quietus and Cross Reaper - Impulse - Quietus both work.  BRD uses Rudra Storm and actively holds TP to close SCs when he can (Rudras can also close the 3-step).  When he is Thunder Hand his stuns make it hard to SC so we just do our best.
+
+Ghatjot/Dhartok:  I switch to Insurgency.  This fight you absolutely can do massive SCs off of SB/Black Halo and it leads to all 9s Lights and this fight doesn't have any annoying mechanics to interrupt SCs so we try to do them on this guy.
+
+E and G you can simply do 
+Seraph(RDM) > Hot shot(COR) > Flat(RDM) > Savage(COR) > Dimidation(RUN). 
+You dont even need SCH to make SC.
+---------------------
+For F you can do 
+Leaden(COR) > CDC(RDM) > Wildfire(COR) 
+or 
+Steel Cyclone(RUN) > Evisceration(RDM) > Wildfire(COR). 
+Both are darkness > double darkness
+
+---------------------
+G BOSS Triboulex PLAN
+
+STRAT
+Seraph Blade HOT SHOT
+
+RUN RDM BRD COR GEO WHM
+
+RUN:  Valiance Ignis runes on party.  Pull Triboulex.  Quickly spike hate using Elemental Sforzo and other JAs.  Head directly to the outer wall of the chamber and continually run around the arena at max distance. 
+
+BRD:  Soul Voice + Clarion Call: Ice Carol x2, Honor March, Blade Madrigal, Logical Etude
+
+GEO: Indi-Malaise; Geo-Acumen or Frailty.  Widen Compass the GEO bubble and place it in the center of the arena.  Follow closely behind Triboulex to always keep him in Malaise.  Entrust Indi-Precision on the COR.
+
+RDM:  Gravity II, Paralyze, Dia III, Distract III.  Haste II party.  Use Seraph Blade to SC with COR. 
+
+COR: Wizard Roll + Samurai Roll.  Use Hot Shot to skill chain with the RDM
+
+WHM: Barblizzarra
+
+---------------------
+for nm ["Gartell"] sortie
+
+
+
+Savage(COR)>CrossReaper(DRK)>ImpulseDrive(WAR) for wind hand and LastStand>Impulse>CrossReaper for lightning hand.
+
+--------------------------
+
+D obiect chard chest 4 sc 
+
+sword
+
+ Burning Blade
+Savage Blade Scission
+Burning Blade Liquefaction
+Flat Blade Fusion
+Savage Blade Light 
+
+or 
+
+ Flat Blade
+Burning Blade Liquefaction
+Fast Blade Scission
+Burning Blade Liquefaction
+Savage Blade Scission 
+
+or 
+
+ Fast Blade
+Burning Blade Liquefaction
+Vorpal Blade Scission
+Burning Blade Liquefaction
+Savage Blade Scission 
+
+greatsword
+
+ Sickle Moon
+Herculean Slash Detonation
+Sickle Moon Scission
+Herculean Slash Detonation
+Sickle Moon Scission 
+
+scythe
+
+ Nightmare Scythe
+Vorpal Scythe Transfixion
+Nightmare Scythe Compression
+Vorpal Scythe Transfixion
+Nightmare Scythe Compression 
