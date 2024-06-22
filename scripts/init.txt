@@ -29,9 +29,10 @@ lua load QuestLog
 lua load OhNoYouDont
 lua load finalAlert
 lua load finalAlert 250 330
-lua load Equipviewer 380 500 --for screen res 1920-1080
+lua load Equipviewer 380 490
+// lua load Equipviewer 380 500 --for screen res 1920-1080
 // lua load Equipviewer 380 530 --for screen res 1600-1024
-// lua load Equipviewer 380 620
+// lua load Equipviewer 380 575
 lua load Quetz
 lua load parse 
 // parse show defense
@@ -40,7 +41,7 @@ lua load Furrow
 --lua load AutoJoin
 lua load tradenpc
 lua load sellnpc
-// lua load anchor
+lua load anchor
 // lua load gearinfo
 lua load Skillchains
 lua load Repeater
@@ -54,13 +55,13 @@ lua load Sublimator
 lua load partyhints
 --lua load PartyPets
 lua load PartyBuffs
-lua load shortcuts
---lua load shoutml
+--lua load shortcuts
+lua load shoutml
 --lua load SortieHUD
 lua load spellSpammer
 // lua load rolltracker
 --lua load fuckoff
-// lua load enemybar2
+lua load enemybar2
 lua load EasySpells
 // lua load EasyNuke
 --lua load closetCleaner
@@ -76,9 +77,11 @@ lua load SirPopaLot
 --lua load smarttarget
 lua load AuctionHelper
 lua load whereisdi
-lua load findall
+--lua load findall
 lua load TargetBar
+lua load ATA
 lua load Eneresist
+lua load PetCharges
 wait 60
 lua load GearInfo
 lua load ShoutAlert
