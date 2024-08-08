@@ -26,7 +26,7 @@ lua load schskillchain
 // lua load targeter
 // lua load allseeingeye
 lua load QuestLog
-lua load OhNoYouDont
+--lua load OhNoYouDont
 lua load finalAlert
 lua load finalAlert 250 330
 lua load Equipviewer 380 490
@@ -37,7 +37,7 @@ lua load Quetz
 lua load parse 
 // parse show defense
 lua load sparks
-lua load Furrow
+--lua load Furrow
 --lua load AutoJoin
 lua load tradenpc
 lua load sellnpc
@@ -51,12 +51,12 @@ lua load trade
 lua load ShoutAlert
 lua load Sublimator
 // lua load Cancel
---lua load Facing
+lua load Facing
 lua load partyhints
 --lua load PartyPets
 lua load PartyBuffs
 --lua load shortcuts
-lua load shoutml
+--lua load shoutml
 --lua load SortieHUD
 lua load spellSpammer
 // lua load rolltracker
@@ -79,9 +79,10 @@ lua load AuctionHelper
 lua load whereisdi
 --lua load findall
 lua load TargetBar
-lua load ATA
+--lua load ATA
 lua load Eneresist
 lua load PetCharges
+lua load leave
 wait 60
 lua load GearInfo
 lua load ShoutAlert
