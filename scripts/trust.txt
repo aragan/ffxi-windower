@@ -1,10 +1,10 @@
 
 input /ma "Qultada" <me>
 wait 6
-input /ma "Ulmia" <me>
+input /ma "Ygnas" <me>
 wait 6
 input /ma "Koru-Moru" <me>
 wait 6
-input /ma "Apururu (UC)" <me>
+input /ma "Sylvie (UC)" <me>
 wait 6
 input /ma "Joachim" <me>

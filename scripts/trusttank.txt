@@ -1,9 +1,9 @@
 
 input /ma "AAEV" <me>
 wait 6
-input /ma "Ulmia" <me>
+input /ma "Sylvie (UC)" <me>
 wait 6
-input /ma "Apururu (UC)" <me>
+input /ma "Ygnas" <me>
 wait 6
 input /ma "Joachim" <me>
 wait 6

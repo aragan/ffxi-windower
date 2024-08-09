@@ -1,8 +1,9 @@
+
 input /ma "Qultada" <me>
 wait 6
-input /ma "Sylvie (UC)" <me>
+input /ma "AATT" <me>
 wait 6
-input /ma "King of Hearts" <me>
+input /ma "Koru-Moru" <me>
 wait 6
 input /ma "Ygnas" <me>
 wait 6

@@ -5,6 +5,6 @@ input /ma "Koru-Moru" <me>
 wait 6
 input /ma "Joachim" <me>
 wait 6
-input /ma "Apururu (UC)" <me>
+input /ma "Ygnas" <me>
 wait 6
 input /ma "Lilisette II" <me>
