@@ -1,0 +1,211 @@
+
+melee strat ws all BOSS
+
+melee strat ws
+
+ws for all boss
+
+drk ws Judgment
+war ws Ukko's Fury
+rdm ws black halo
+brd ws mordant rime
+cor ws Savage Blade
+sam ws SHOHA
+blu ws Savage Blade
+dnc ws Exenterator
+drg ws Camlann's Torment 
+nin ws metsu or kamu
+
+or
+
+melee strat ws
+ws for F and G BOSS
+drk ws cross reaper or origin
+war ws fimbl or impulse drive
+rdm ws black halo
+brd ws ruda storm or ruthless stroke or mordant rime
+cor ws Evisceration
+sam ws fudo
+blu ws expiacion
+dnc pyrrhic kleos or ruthless stroke or ruda storm
+
+
+
+ws for ACEG BOSS
+
+drk ws Torcleaver or Insurgency
+war ws Upheaval or Ukko's Fury
+rdm ws black halo
+brd ws Savage Blade or Exenterator  or mordant rime
+cor ws LAST STAND
+sam ws SHOHA
+blu ws Savage Blade
+dnc ws Exenterator
+drg ws Camlann's Torment or Drakesbane
+nin ws blade shun or metsu or kamu or kasha with GK AMBUSCADE
+
+BUFF
+
+BRD Minuet x3, Honor March,Blade Madrigal ,
+COR Chaos and Sam rolls.
+
+WHM Boost-STR  Auspice  Aurorastorm  Regen IV AOE.
+A E BOSS DO Barpoison Barwatera 
+C G BOSS DO Baramnesra Barparalyzra
+WAR FIRST WS IF USE gs open with GREAT AXE ws Armor Break
+BRD Box steps, IF HAVE DRG  DO Angons, RDM Dia III, Distract III, COR Lightshot
+
+plan 
+
+
+all hybrid set for -50% DT buff prenter then in buff on start advice 
+
+rdm go A area farm shard A clear 3 Acuex with spell fire make sc cdc>cdc>light mb fire
+
+COR B GO DOWN TO NEAR ELEMETALS kill 5 light or winds with leaden>viper>leaden>dark
+
+dd whm go b then east south go c area clear 3 Bhoot sc ligh whm mb dia
+
+then all go c advice go west to D then follow on wall go small pt fomors 
+
+4step  clear 3 for shard D
+
+Fast Blade
+Burning BladeLiquefaction
+Fast BladeScission
+Burning BladeLiquefaction
+Fast BladeScission 
+
+
+----------------------------------------
+----------------------------------------
+cleave strat ACEG
+blu blu cor geo pld rdm
+ws order with magic buff
+
+cor ws gun Hot Shot
+blu ws club Shining Strike
+blu ws sword Burning Blade
+rdm ws club Seraph Strike
+blu or geo ws club Flash Nova
+ws sword Red Lotus Blade
+
+geo INDI-Acumen Geo-Malaise Entrust haste
+COR: Wizard Roll  hunter roll
+blu use ja Diffusion Erratic Flutter 
+pld kitting in mid and circle him
+rdm dis 3 distract 3 bio 3 frazzle 3 gravity 2
+----------------------------------------
+----------------------------------------
+
+SORTIE MB STRAT
+
+NAKUULAS WEAK ELEMENT
+
+    Bztavian = Ice
+
+    Rockfin = Thunder
+
+    Gabbrath = Water
+
+    Yggdreant = Wind
+
+    Waktza = Earth
+
+    Cehuetzi = Fire
+
+---------
+
+B F BOSS
+
+Everyone must remove Shell V
+
+SCH 
+Tabula Rasa , Embrava IF F BOSS
+Klimaform
+IF Thunder hand SANDSTORM 2 
+IF Wind hand Hailstorm II 
+SCH DO SCH Induration or Scission
+Wind hand: SC Induration  MB BLIZZARD,
+Thunder hand: SC Scission MB STONE
+
+RUN  Thunder hand USE Tellus 3Xrune
+Wind hand USE Gelus 3Xrune 
+Valiance EVERYONE
+PULL WITH Gambit FOIL FLASH THEN Rayke
+
+GEO: INDI-Acumen THEN Blaze of Glory Geo-Malaise 
+THEN Ecliptic Attrition Dematerialize
+IF F BOSS USE Bolster INDI-Acumen THEN Geo-Malaise 
+THEN Entrust Indi-INT 
+
+COR: Wizard Roll AND Monk's Roll OR IF NEED MP Evoker's Roll 
+EARTH SHOT WITH MB IF HAND THUNDER
+ICE  SHOT WITH MB IF HAND WIND
+
+BLM Klimaform 
+IF Thunder hand SANDSTORM 
+IF Wind hand Hailstorm 
+SPELL BURN ON BOSS AND Elemental Seal Impact IF NEED
+MB FIRST MB Stoneja IF Thunder hand
+MB FIRST MB Blizzaja IF Wind hand 
+
+--------
+
+C G BOSS
+
+SCH
+
+IF G BOSS USE Tabula RASA ,Embrava 
+
+Klimaform , Fire Storm
+SCH: SC Fusion spam. FIRE MB
+
+SC liquefaction and fusion two step SC MB
+Immanence >Stone.>IMM.>Fire>IMM.>Ionohelix
+
+RUN  Tellus 3Xrune
+Valiance EVERYONE
+PULL WITH Gambit FOIL FLASH THEN 
+Rayke Ignis
+
+
+GEO: INDI-Acumen THEN Blaze of Glory Geo-Malaise 
+THEN Ecliptic Attrition Dematerialize
+IF G BOSS USE Bolster INDI-Acumen THEN Geo-Malaise 
+THEN Entrust Indi-INT 
+
+BLM Klimaform ,STONE Storm, BURN , STONE MB Firaja FIRST MB
+AND Elemental Seal Impact IF NEED FIRST
+
+COR: Wizard Roll AND Monk's Roll 
+FIRE SHOT WITH MB
+
+---------
+
+A E BOSS
+
+SCH
+
+
+Klimaform , STONE Storm
+SCH: SC Scission spam. STONE MB
+
+
+
+RUN  Ignis 3Xrune
+Valiance EVERYONE
+PULL WITH Gambit FOIL FLASH THEN 
+Rayke Tellus
+
+
+GEO: INDI-Acumen THEN Blaze of Glory Geo-Malaise 
+THEN Ecliptic Attrition Dematerialize
+IF G BOSS USE Bolster INDI-Acumen THEN Geo-Malaise 
+THEN Entrust Indi-INT 
+
+BLM Klimaform ,Fire Storm, BURN , STONE MB Stoneja FIRST MB
+AND Elemental Seal Impact IF NEED FIRST
+
+COR: Wizard Roll AND Monk's Roll 
+STONE SHOT WITH MB
