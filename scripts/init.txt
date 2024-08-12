@@ -83,6 +83,7 @@ lua load TargetBar
 lua load Eneresist
 lua load PetCharges
 lua load leave
+lua load blupldsets
 wait 60
 lua load GearInfo
 lua load ShoutAlert
