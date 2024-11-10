@@ -84,8 +84,11 @@ lua load Eneresist
 lua load PetCharges
 lua load leave
 lua load blupldsets
+lua load AutoBuffBard
+lua load Gaze_check
 wait 60
 lua load GearInfo
 lua load ShoutAlert
+
 // gi show logo
 
