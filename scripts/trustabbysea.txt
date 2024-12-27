@@ -1,7 +1,9 @@
 input /ma "Ygnas" <me>
 wait 6
-input /ma "Cornelia" <me>
-wait 6
 input /ma "Koru-Moru" <me>
 wait 6
 input /ma "Ulmia" <me>
+wait 6
+input /ma "Star Sibyl" <me>
+wait 6
+input /ma "Sylvie (UC)" <me>

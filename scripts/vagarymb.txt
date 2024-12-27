@@ -1,0 +1,10 @@
+input /ja "Immanence" <me>;
+wait 1;
+input /ma "Blizzard" <t>;
+wait 4;
+input /ja "Immanence" <me>;
+wait 1;
+input /ma "Thunder" <t>;
+wait 4;
+input /gs enable all;
+input /ja "Thunder" <me>;
