@@ -224,6 +224,8 @@ alias cobra gs c useitem main Cobra Staff
 alias ram gs c useitem main Ram Staff
 alias republic gs c useitem main Republic Staff
 
+alias warpring input /equip "R.ring" "Warp Ring"; wait 10; input /item "Warp Ring" <me>
+
 --Capacity item binds.
 bind ^@!z get "Mecisto. Mantle" satchel;get "Capacity Ring" satchel;wait 1;get "Trizek Ring" satchel;wait 1;get "Vocation Ring" satchel;wait 1;get "Facility Ring" satchel
 bind ^!z put "Mecisto. Mantle" satchel;put "Capacity Ring" satchel;wait 1;put "Trizek Ring" satchel;wait 1;put "Vocation Ring" satchel;wait 1;put "Facility Ring" satchel;wait 1;put "Guide Beret" satchel
@@ -263,12 +265,13 @@ alias distortion gs c set ElementalMode Ice;gs c elemental skillchain2
 
 //Gearup Aliases
 
-alias gather gs c naked;gs disable all;wait .5;gs org;wait 3;gs c showset
+//alias gather gs c naked;gs disable all;wait .5;gs org;wait 3;gs c showset
 //alias gearup gs c naked;gs disable all;wait .5;put * wardrobe4 all;put storage slip* case all;wait 3;gs c showset
 alias geardown gs c naked;gs disable all;wait .5;get * wardrobe4 all; get storage slip* all;wait 3;gs c showset
 //alias porter packer repack
-//alias getslips get storage slip* all
-//alias putslips put storage slip* case all
+//alias packer packer repack all
+alias getslips get storage slip* all
+alias putslips put storage slip* case all
 
 //Blockhelp
 //wait 30;input /blockhelp
@@ -311,7 +314,7 @@ lua load React
 lua load sheolhelper
 lua load trade
 lua load ShoutAlert
-lua load Sublimator
+--lua load Sublimator
 // lua load Cancel
 lua load Facing
 lua load partyhints
@@ -321,7 +324,6 @@ lua load PartyBuffs
 --lua load shoutml
 --lua load SortieHUD
 lua load spellSpammer
-// lua load rolltracker
 --lua load fuckoff
 lua load enemybar2
 lua load EasySpells
@@ -336,7 +338,8 @@ lua load chatfilter
 --lua load mob
 lua load DParty
 lua load SirPopaLot
---lua load smarttarget
+lua load smarttarget
+smrt off
 lua load AuctionHelper
 lua load whereisdi
 --lua load findall
@@ -349,16 +352,33 @@ lua load blupldsets
 lua load AutoBuffBard
 lua load Gaze_check
 lua load callouts
+co chatmode
 lua load DropStop
 lua load GPS
 lua load runewidget
 lua load autows
 lua load autoitem
-// aws use Savage Blade
+lua load staggertrack
+lua load StatueStatus
+lua load help
+
+lua load roller
+lua load VanaFacts
+lua load PorterPacker
+lua load Cards
+lua load SortieJobs
+
+//lua load VoidWalker
+//lua load targetinfo
+//lua load invtracker
+//lua load invspace
+ept hide
+// aws use Savage Blade -- //aws set Savage Blade
 
 wait 60
 lua load GearInfo
 lua load ShoutAlert
+lua load autoNukes
 
 // lua l XIPivot
 // gi show logo
