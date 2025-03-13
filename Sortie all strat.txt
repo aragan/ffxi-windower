@@ -1,3 +1,11 @@
+hi u jon sortie ?
+
+Bluntx>> Cor rdm war blu blm smn drg
+Miany>> whm rdm brd
+Mantajet>> rdm,war,pld
+
+melee strat ws all BOSS
+--created by Author Aragan
 
 melee strat ws all BOSS
 
@@ -44,29 +52,50 @@ dnc ws Exenterator
 drg ws Camlann's Torment or Drakesbane
 nin ws blade shun or metsu or kamu or kasha with GK AMBUSCADE
 
-BUFF
+------------------
 
-BRD Minuet x3, Honor March,Blade Madrigal ,
+
+BUFF
+in start Device
+
+rdm  give the Corsair Phalanx 2, hast2 all
+BRD Minuet x2, Honor March,Blade Madrigal ,
 COR Chaos and Sam rolls.
 
-WHM Boost-STR  Auspice  Aurorastorm  Regen IV AOE.
+WHM 
+
+Boost-STR  Auspice  Aurorastorm  Regen IV AOE.
 A E BOSS DO Barpoison Barwatera 
 C G BOSS DO Baramnesra Barparalyzra
-WAR FIRST WS IF USE gs open with GREAT AXE ws Armor Break
+F BOSS Wind Hands: Use Asylum it start fight then cor wc and whm repeat 
+
 BRD Box steps, IF HAVE DRG  DO Angons, RDM Dia III, Distract III, COR Lightshot
 
 plan 
 
+f boss if hand wind remove protect and phalanx 
+fight in corner that help knock and save time
+f boss if hand lightining not debuff dia its reback to pt 
+and fight any pos but corner better
 
 all hybrid set for -50% DT buff prenter then in buff on start advice 
 
-rdm go A area farm shard A clear 3 Acuex with spell fire make sc cdc>cdc>light mb fire
+rdm 
 
-COR B GO DOWN TO NEAR ELEMETALS kill 5 light or winds with leaden>viper>leaden>dark
+go A area farm shard A run south to kill Acuexs clear 3 Acuex with spell fire make sc cdc>cdc>light mb fire or Seraph Blade > Red Lotus Blade > Liquefaction burst Fire V
+rdm on boss D/H proc weak element and 
+B/F proc weak element 
+Wind hand: 70% Ice
+hunder hand: 70% Earth
+
+COR 
+
+B GO DOWN TO NEAR ELEMETALS give self wizard roll  and kill 5 light or winds with leaden>viper>leaden>dark or Leaden Salute > Wasp Sting > Leaden Salute 
 
 dd whm go b then east south go c area clear 3 Bhoot sc ligh whm mb dia
 
 then all go c advice go west to D then follow on wall go small pt fomors 
+that better safety from big link fomor 
 
 4step  clear 3 for shard D
 
@@ -77,9 +106,29 @@ Burning BladeLiquefaction
 Fast BladeScission 
 
 
+BRD
+
+on EGF try step box
+
+Soul Voice + Clarion Call  NITRO SV
+
+ Honor March, Minuet x3 or ARIA, Blade Madrigal 
+
+H BOSS
+
+PROC WEAK ELEMENT WITH RDM OR DRK OR ANY 
+
+    Flaming Kick Element: Fire : counter with Element: Water water damage.
+    Flashflood Element: Water : counter with Element: Thunder thunder damage.
+    Icy Grasp Element: Ice : counter with Element: Fire fire damage.
+    Eroding Flesh Element: Earth : counter with Element: Wind wind damage.
+    Fulminous Smash Element: Thunder : counter with Element: Earth earth damage.
+
 ----------------------------------------
 ----------------------------------------
+
 cleave strat ACEG
+
 blu blu cor geo pld rdm
 ws order with magic buff
 
@@ -90,6 +139,7 @@ rdm ws club Seraph Strike
 blu or geo ws club Flash Nova
 ws sword Red Lotus Blade
 
+
 geo INDI-Acumen Geo-Malaise Entrust haste
 COR: Wizard Roll  hunter roll
 blu use ja Diffusion Erratic Flutter 
@@ -99,6 +149,8 @@ rdm dis 3 distract 3 bio 3 frazzle 3 gravity 2
 ----------------------------------------
 
 SORTIE MB STRAT
+
+option :
 
 NAKUULAS WEAK ELEMENT
 

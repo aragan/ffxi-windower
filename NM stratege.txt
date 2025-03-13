@@ -1,3 +1,32 @@
+soertie cleave strat u join blu pld cor geo
+3xblu cor geo/whm pld
+ACEG++
+geo mailase acumen refrech and on all boss indi gravity mailase acumen
+cor  roll wiz tactic
+pld pulled and kitting all boss and u main healer spam cure aoe with geo/whm
+
+fomor mobs only entomb spam 10sec betwen 2 blu to be mobs stun all time
+first sleap mobs and Enervation then entomb spam 10sec
+set dt all pt and use ws on self Moonlight if mp low 
+
+
+1 blu do Diffusion Carcharian Verve in fight boss
+1 blu do Tearing Gust on boss
+geo gravity boss pld kitting
+all spam Seraph Blade or Seraph Strike on boss 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ody seg c before inter sch/rdm
 cor nat roll
 sch
@@ -337,7 +366,11 @@ pup pet tank
 trust king cor whm geo ulmia
 or dd pt
 ============
+fu omen nm
+pet 
+ve/ss light thunder fire
 
+==============
 dynamis d windrust boss wave 2
 
 tank dd3 whm rdm brd cor 2
@@ -1096,6 +1129,13 @@ Vorpal Blade Scission
 Burning Blade Liquefaction
 Savage Blade Scission 
 
+or 
+ Fast Blade
+Burning BladeLiquefaction
+Fast BladeScission
+Burning BladeLiquefaction
+Fast BladeScission 
+
 greatsword
 
  Sickle Moon
@@ -1111,3 +1151,133 @@ Vorpal Scythe Transfixion
 Nightmare Scythe Compression
 Vorpal Scythe Transfixion
 Nightmare Scythe Compression 
+
+mix
+
+seraph Blade - Herculean Slash or True Strike - Seraph Blade - Herculean Slash or True Strike)
+
+Herculean Slash SB Herculean Slash SB 
+=============
+
+
+Aminon (All 9 Bosses in One Sortie)
+
+ABCDEFGH+Aminon (All 9 bosses defeated in one Sortie)
+
+Actual Path: D - H - C - B - A - F - G - E - aminon
+
+Group Composition: RUN, GEO, RDM, COR, SCH, BLM
+
+Our first "All 9 Bosses" completion was on June 14, 2023. We repeated the success many more times since then. This recorded session occurred July 5, 2023, after we practiced and refined our method. There were a few minor player-errors, but nothing drastic enough to derail us.
+
+Shard Acquisition:
+RUN, GEO, RDM: Head South for D shard using 4-Step SC. (Seraph Blade - Herculean Slash or True Strike - Seraph Blade - Herculean Slash or True Strike)
+
+COR: ports to B and kills 5 air elementals there. (Leaden Salute - Viper Bite - Leaden Salute - Wildfire) [can substitute Viper with Wasp Sting if not subbing certain jobs]
+
+SCH: ports to C and kills three Corses with at least one SC. (Fusion SC - Pyrohelix II + Fire V, etc.)
+
+BLM: I went north in this video, out of habit, because of other routes we've done; but south is actually better when fighting Degei first.
+
+---------------------
+
+mboze v25
+
+>> first ki rdm,drk,geo,run,smn,blu
+>> 2th ki war,bst,cor,brd,whm,pld
+
+
+marmo v25 
+rng strat
+Dewit>> i got my clear with pld rng cor sch geo rdm....rng cor sc sch geo nuke and rdm kite bind grav adds helps heal 
+
+---------------------
+
+Xevioso
+
+/yell Xevioso clear climb v10 v15 LFM WAR DNC COR BRD GEO WHM 
+
+COR: Samurai + Crooked Chaos Rolls 
+WHM: Baraera Barpoisonra, Boost-Dex  Regen IV Auspice Aquaveil Stoneskin
+Zombie effect Keep up Solace for Sacrifice. Haste DD 
+WHM Afflatus Solace + Sacrifice on Curse
+BRD does Honor March Minuet x2 Wind Carol II Schzero Dirge on mages
+ 2x Ballad the WHM Debuff Pining Nocturne Elegy 
+GEO: Geo-Fury Indi-Fend Entrust Indi-Attunement 
+
+--GEO does Barrier, Fury, and Indi-DEX 
+--ws Piercing dmg Mordant Rime Evisceration Impulse Drive ruda last stand  
+-- BST with Killer Instinct(Lizard) and Corosive Ooze(Slug) 
+--SAM use polearm and Stardiver to reduce critical evasion. 
+DNC Box + Feather Steps backup healing, Rudra's Storm, Haste Samba
+
+THF: Larceny at 75% to remove Perfect Dodge, DD or AFK dealer's choice 
+
+ 2x Ballad the WHM Debuff Pining Nocturne Elegy 
+
+bring stack Panacea for Incisive Denouement use it on all-stat-down debuff Remedy for paralyze/poison
+WAR save Blood Rage if Aura goes up use Stardiver to lower crit evasion every 60 seconds
+WAR pulls with Provoke Warcry at the start save Mighty Strikes after Perfect Dodge
+all hybrid set for -50% DT 
+COR Random Deal after aura is down.shoot with set critcal from a distance. 20yalm last stand
+panaceas as the DD to remove stat down
+Turn around during weakness to not feed TP
+
+DNC: 10 stacks Box Step (Defense down step) at the start, Saber Dance, then do the DNC 2hr wombo combo to proc Perfect Dodge ASAP. Animated Flourish (DNC Provoke) when WAR gets weakened or zombie. DNC don't need to heal at all, it's a zerg strat.
+
+After Perfect Dodge wears off, start applying Feather Step(Crit) to 10 stacks, while maintaining the Box Step.
+
+2hr combo: Climactic > Rudra > RF(Reverse Flourish) > Grand pas > Rudra > RF Rudra > Trance Rudra > RF Rudra > RF Rudra > make tp > Climactic > Rudra > make TP > Rudra 
+
+position all not same pos West=WAR, East=DNC, North=COR, South=brd
+to avoide conal tp move Stinger Volley 
+
+
+aminon ws order
+
+brd mortar
+dnc ruda
+rdm black halo
+cor savage blade
+geo jundgment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
